@@ -1,0 +1,1001 @@
+patient_id,usia,jenis_kelamin,berat_badan_kg,tinggi_badan_cm,tekanan_darah_sistolik,tekanan_darah_diastolik,suhu_tubuh_c,durasi_tidur_jam,aktivitas_fisik,merokok,tingkat_stres,keluhan,kategori_keluhan
+P0001,,Laki-laki,72.6,163.6,153.0,62.0,37.4,6.7,Rendah,Ya,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0002,26.0,Perempuan,94.4,168.9,122.0,80.0,36.4,7.0,Sedang,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0003,50.0,Laki-laki,66.3,145.0,130.0,103.0,37.2,,Rendah,,,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0004,70.0,Laki-laki,44.5,,109.0,78.0,37.0,6.9,Rendah,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0005,37.0,Laki-laki,67.0,168.9,138.0,89.0,36.2,7.0,Rendah,Ya,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0006,30.0,Perempuan,65.0,176.9,117.0,63.0,37.3,7.9,Sedang,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0007,45.0,Laki-laki,64.0,176.0,137.0,75.0,36.9,6.9,Tinggi,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0008,,Laki-laki,76.3,166.0,139.0,,35.8,6.9,Tinggi,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0009,46.0,Laki-laki,81.5,178.6,113.0,81.0,36.6,7.4,Sedang,Tidak,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0010,30.0,Perempuan,73.2,183.3,105.0,90.0,36.8,7.8,Rendah,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0011,,Laki-laki,63.4,165.3,153.0,73.0,36.4,5.6,Sedang,Ya,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0012,,Laki-laki,78.5,168.8,122.0,59.0,,5.3,,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0013,23.0,Laki-laki,47.1,149.1,129.0,93.0,37.6,8.8,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0014,35.0,Laki-laki,56.4,151.9,134.0,69.0,36.6,7.6,,Tidak,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0015,68.0,Perempuan,57.7,157.5,102.0,86.0,36.5,6.5,Rendah,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0016,22.0,Laki-laki,64.6,161.0,133.0,85.0,36.7,6.8,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0017,64.0,Perempuan,71.1,155.1,127.0,60.0,36.7,6.3,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0018,42.0,Perempuan,62.6,164.7,113.0,93.0,36.4,7.1,Tinggi,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0019,19.0,Perempuan,54.1,161.3,104.0,73.0,35.5,5.6,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0020,27.0,Laki-laki,76.7,174.6,136.0,81.0,,7.8,Rendah,Tidak,,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0021,47.0,Perempuan,,160.7,145.0,76.0,36.8,7.0,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0022,67.0,,66.2,145.0,128.0,99.0,36.7,7.1,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0023,62.0,Perempuan,71.6,166.1,99.0,96.0,37.0,5.7,Rendah,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0024,22.0,Perempuan,65.5,164.9,106.0,58.0,36.8,7.4,,,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0025,50.0,Perempuan,65.5,157.2,117.0,107.0,36.5,5.8,Rendah,,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0026,18.0,,,165.9,153.0,72.0,,6.0,Rendah,,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0027,35.0,Perempuan,66.8,155.3,121.0,105.0,35.7,6.9,,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0028,49.0,Perempuan,75.4,168.0,117.0,77.0,36.0,9.8,Tinggi,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0029,64.0,Perempuan,71.5,188.7,95.0,76.0,,7.0,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0030,66.0,,89.2,,113.0,77.0,37.2,,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0031,28.0,Laki-laki,69.9,160.4,103.0,75.0,37.2,6.0,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0032,38.0,Laki-laki,72.7,158.9,107.0,110.0,36.3,7.6,Sedang,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0033,43.0,Perempuan,78.2,161.1,127.0,79.0,,5.4,Rendah,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0034,42.0,Perempuan,65.8,174.2,118.0,,36.8,7.8,Sedang,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0035,39.0,Perempuan,57.3,169.9,156.0,81.0,36.5,7.0,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0036,,Laki-laki,59.3,172.6,144.0,68.0,36.5,8.0,Rendah,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0037,,,59.4,165.3,114.0,,37.4,6.1,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0038,30.0,Laki-laki,53.6,153.1,108.0,62.0,36.9,,Sedang,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0039,50.0,Laki-laki,68.8,155.0,150.0,73.0,36.2,7.5,Sedang,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0040,51.0,Laki-laki,57.4,171.7,155.0,91.0,36.1,6.8,Rendah,,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0041,58.0,Laki-laki,67.3,166.5,90.0,81.0,36.6,6.7,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0042,52.0,Laki-laki,63.1,176.3,127.0,87.0,36.3,8.7,,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0043,18.0,Perempuan,64.5,167.6,,98.0,36.8,7.5,Rendah,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0044,38.0,Perempuan,71.7,154.4,137.0,92.0,37.4,4.4,Rendah,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0045,65.0,Perempuan,58.5,160.3,160.0,82.0,36.0,7.8,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0046,23.0,Perempuan,72.7,170.1,116.0,105.0,36.9,7.6,Rendah,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0047,45.0,Perempuan,83.8,171.4,90.0,72.0,37.3,8.2,Sedang,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0048,34.0,Laki-laki,69.1,172.7,135.0,79.0,36.7,,Sedang,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0049,22.0,Perempuan,55.6,,150.0,,37.2,7.2,Rendah,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0050,48.0,Perempuan,57.6,154.2,120.0,79.0,36.6,6.9,Rendah,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0051,22.0,Laki-laki,62.0,163.3,112.0,67.0,36.9,5.7,Sedang,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0052,55.0,Perempuan,57.9,178.0,117.0,61.0,37.1,7.9,Rendah,Ya,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0053,20.0,Laki-laki,,158.8,140.0,,,6.5,Rendah,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0054,70.0,Perempuan,,169.1,117.0,72.0,38.0,8.2,Sedang,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0055,40.0,Laki-laki,62.3,169.1,131.0,103.0,37.1,5.9,,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0056,54.0,Perempuan,67.3,171.8,126.0,,,5.0,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0057,70.0,Perempuan,79.2,180.0,124.0,77.0,37.4,6.5,Rendah,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0058,54.0,Laki-laki,62.2,179.1,138.0,93.0,37.0,7.1,Sedang,Ya,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0059,27.0,Laki-laki,50.8,159.6,116.0,85.0,37.6,6.2,Sedang,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0060,27.0,Laki-laki,60.2,146.1,117.0,78.0,36.9,3.1,Tinggi,Tidak,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0061,36.0,Laki-laki,74.2,158.9,139.0,72.0,36.4,7.3,Sedang,Ya,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0062,34.0,Laki-laki,73.1,165.7,107.0,120.0,36.8,7.3,Rendah,,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0063,38.0,Laki-laki,71.2,161.7,109.0,84.0,36.2,7.6,Sedang,,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0064,31.0,Laki-laki,57.5,182.7,,,35.5,6.3,Sedang,Tidak,,Perut terasa nyeri dan mual,Pencernaan
+P0065,26.0,Laki-laki,74.0,165.2,140.0,68.0,36.3,,Sedang,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0066,63.0,Perempuan,76.7,170.9,123.0,73.0,36.8,8.5,Tinggi,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0067,18.0,Perempuan,56.7,167.0,101.0,105.0,37.4,4.9,Sedang,Tidak,,Sering sakit kepala dan terasa pusing,Neurologis
+P0068,68.0,,64.5,161.9,140.0,97.0,36.3,,Rendah,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0069,62.0,Perempuan,89.2,147.7,,85.0,37.4,7.0,Sedang,Ya,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0070,30.0,Perempuan,56.1,164.3,109.0,75.0,36.1,7.5,Rendah,,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0071,21.0,Perempuan,44.5,194.3,121.0,77.0,36.2,7.0,Sedang,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0072,18.0,Perempuan,81.6,153.8,152.0,72.0,37.7,5.7,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0073,66.0,Laki-laki,78.6,148.7,118.0,,36.8,8.2,Sedang,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0074,57.0,Perempuan,59.5,182.4,135.0,91.0,36.7,6.8,Rendah,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0075,49.0,Laki-laki,63.6,171.7,138.0,86.0,36.9,4.8,Sedang,Tidak,,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0076,51.0,Perempuan,50.3,166.7,133.0,89.0,36.1,7.1,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0077,45.0,Perempuan,66.1,177.3,148.0,76.0,36.6,7.4,Sedang,Ya,,Sering sakit kepala dan terasa pusing,Neurologis
+P0078,48.0,Perempuan,79.0,157.5,112.0,,36.8,9.2,Rendah,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0079,25.0,Laki-laki,,164.0,106.0,75.0,37.5,7.3,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0080,,Perempuan,75.5,173.6,106.0,71.0,35.8,5.0,,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0081,43.0,Laki-laki,70.6,184.0,122.0,100.0,37.9,5.1,Rendah,Ya,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0082,51.0,Perempuan,71.9,,108.0,81.0,,8.3,Rendah,Ya,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0083,20.0,Laki-laki,59.2,176.5,128.0,86.0,,5.8,Rendah,Ya,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0084,67.0,,,168.4,126.0,90.0,36.0,4.9,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0085,29.0,Laki-laki,42.8,166.5,143.0,82.0,37.0,8.0,Tinggi,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0086,18.0,Laki-laki,,164.9,130.0,83.0,36.0,6.2,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0087,61.0,Perempuan,79.0,152.5,118.0,67.0,36.5,7.9,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0088,22.0,Laki-laki,53.8,173.7,132.0,69.0,36.7,5.7,Sedang,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0089,47.0,Perempuan,55.6,158.0,106.0,69.0,37.5,8.6,Sedang,Tidak,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0090,47.0,,72.7,155.3,124.0,87.0,37.4,7.8,Rendah,Ya,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0091,34.0,Perempuan,69.8,173.0,131.0,,36.4,5.9,Tinggi,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0092,65.0,Perempuan,73.3,172.1,127.0,69.0,36.7,4.8,Sedang,Ya,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0093,64.0,Perempuan,,165.7,132.0,87.0,35.8,9.6,Tinggi,Ya,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0094,40.0,Perempuan,,174.7,113.0,87.0,35.6,6.5,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0095,32.0,Perempuan,50.4,,146.0,72.0,,5.9,Sedang,Tidak,,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0096,54.0,Perempuan,66.9,176.8,158.0,80.0,37.5,8.5,Rendah,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0097,38.0,Perempuan,63.1,160.2,96.0,87.0,37.3,7.9,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0098,31.0,Perempuan,50.8,174.1,103.0,70.0,37.0,8.2,Rendah,,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0099,19.0,Perempuan,60.6,166.9,,87.0,35.9,6.7,Tinggi,,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0100,28.0,Laki-laki,65.3,180.5,120.0,84.0,36.4,9.1,Sedang,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0101,68.0,L,57.2,,159.0,68.0,36.3,5.2,Tinggi,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0102,56.0,Male,76.2,161.8,129.0,83.0,36.7,6.1,Sedang,Ya,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0103,55.0,P,63.1,159.5,150.0,84.0,36.7,7.3,Tinggi,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0104,51.0,Female,,166.7,90.0,72.0,36.2,8.2,Rendah,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0105,55.0,L,47.9,169.2,140.0,73.0,37.0,7.6,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0106,67.0,Perempuan,72.3,169.4,112.0,68.0,36.9,6.7,Sedang,Tidak,,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0107,51.0,Perempuan,47.2,168.1,112.0,75.0,36.4,6.2,Sedang,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0108,35.0,,68.8,,121.0,80.0,37.0,8.2,,Tidak,,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0109,47.0,Perempuan,70.3,163.0,99.0,73.0,37.5,7.7,Rendah,Ya,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0110,32.0,Laki-laki,53.1,157.1,133.0,62.0,37.7,5.8,Rendah,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0111,44.0,Perempuan,75.7,156.4,128.0,72.0,37.1,5.7,Low,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0112,68.0,Laki-laki,44.4,173.8,130.0,75.0,37.1,6.1,medium,,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0113,51.0,Perempuan,68.6,169.2,141.0,90.0,36.7,6.0,High,Tidak,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0114,69.0,Perempuan,64.5,148.3,152.0,87.0,37.4,8.0,low,,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0115,55.0,Laki-laki,63.6,174.9,,90.0,36.2,7.3,Medium,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0116,50.0,,50.9,181.9,134.0,71.0,37.3,7.5,Rendah,Ya,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0117,41.0,Laki-laki,,158.6,130.0,82.0,36.6,7.0,Tinggi,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0118,32.0,Perempuan,84.4,168.0,132.0,55.0,37.7,7.1,Tinggi,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0119,47.0,Perempuan,,160.7,132.0,85.0,37.2,4.9,Tinggi,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0120,59.0,,73.9,170.7,154.0,87.0,36.8,7.8,Tinggi,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0121,68.0,Perempuan,76.3,154.5,,76.0,36.7,6.1,Sedang,Yes,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0122,,Laki-laki,75.2,164.4,98.0,84.0,37.1,6.8,,No,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0123,22.0,Perempuan,61.1,173.8,112.0,62.0,37.1,6.2,Rendah,yes,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0124,46.0,Laki-laki,65.6,176.1,139.0,70.0,36.6,7.0,Rendah,no,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0125,21.0,Laki-laki,47.3,168.8,125.0,89.0,36.9,7.5,,YES,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0126,27.0,Perempuan,63.9,161.9,117.0,86.0,37.3,5.6,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0127,34.0,,79.2,150.7,106.0,75.0,36.0,7.1,Rendah,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0128,27.0,Laki-laki,57.1,158.2,129.0,90.0,37.2,6.3,Sedang,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0129,34.0,Perempuan,77.3,160.8,,82.0,37.1,8.4,Rendah,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0130,37.0,Perempuan,66.1,158.7,131.0,74.0,37.5,5.5,Tinggi,,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0131,41.0,,48.4,165.5,120.0,78.0,36.4,5.6,Rendah,Ya,Low,Sering sakit kepala dan terasa pusing,Neurologis
+P0132,22.0,Laki-laki,,161.9,128.0,75.0,36.8,6.4,,Ya,medium,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0133,51.0,Laki-laki,76.0,166.5,128.0,66.0,36.9,5.7,Sedang,Ya,High,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0134,23.0,Laki-laki,71.6,,128.0,95.0,37.2,6.5,Rendah,Tidak,low,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0135,70.0,Laki-laki,66.2,161.3,,73.0,37.1,6.2,Tinggi,Tidak,Medium,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0136,19.0,Laki-laki,61.7,152.6,129.0,70.0,36.1,6.9,Sedang,Ya,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0137,30.0,Laki-laki,67.5,158.7,117.0,62.0,37.0,8.0,Sedang,,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0138,60.0,Laki-laki,75.6,170.3,144.0,55.0,38.0,6.9,Rendah,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0139,60.0,Laki-laki,82.7,171.1,127.0,88.0,37.2,7.0,Sedang,,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0140,65.0,Laki-laki,83.3,168.7,140.0,90.0,37.8,5.5,Rendah,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0141,28.0,Perempuan,69.5,176.7,120.0,,37.4,6.6,Sedang,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0142,68.0,Laki-laki,,163.3,120.0,78.0,37.6,6.3,Sedang,,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0143,64.0,Perempuan,66.8,183.5,152.0,76.0,37.0,7.6,Tinggi,Ya,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0144,,Perempuan,71.3,172.4,133.0,74.0,37.1,5.9,Sedang,,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0145,33.0,Perempuan,71.2,145.0,112.0,75.0,37.0,5.8,Rendah,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0146,48.0,Laki-laki,80.7,181.2,141.0,,36.8,,Rendah,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0147,28.0,Laki-laki,90.4,158.1,115.0,80.0,37.2,9.2,Sedang,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0148,,,62.5,,129.0,85.0,36.5,6.6,Rendah,,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0149,25.0,Laki-laki,90.9,169.7,,75.0,37.9,7.0,Rendah,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0150,21.0,,79.1,149.4,99.0,96.0,36.2,7.9,Tinggi,,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0151,57.0,Laki-laki,63.8,158.7,122.0,57.0,37.3,7.4,Rendah,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0152,21.0,Laki-laki,83.0,179.0,132.0,65.0,37.6,7.4,Tinggi,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0153,42.0,Laki-laki,85.2,170.0,139.0,85.0,36.7,6.7,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0154,,Laki-laki,59.5,,103.0,101.0,36.1,6.7,Tinggi,Ya,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0155,49.0,Laki-laki,85.8,159.1,97.0,77.0,37.5,5.9,Sedang,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0156,20.0,Perempuan,77.9,151.2,145.0,70.0,36.9,7.4,Sedang,,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0157,44.0,Laki-laki,93.4,,112.0,,37.3,7.4,,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0158,46.0,Perempuan,59.9,173.4,,84.0,36.7,,Tinggi,Tidak,,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0159,49.0,Laki-laki,60.8,173.0,153.0,95.0,37.8,,Tinggi,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0160,67.0,Perempuan,40.7,166.9,126.0,65.0,35.5,7.8,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0161,68.0,Laki-laki,71.9,156.3,126.0,95.0,37.0,8.2,Sedang,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0162,36.0,,69.5,186.9,122.0,61.0,37.6,5.3,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0163,38.0,Perempuan,58.2,169.3,,77.0,36.9,6.4,Rendah,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0164,22.0,Perempuan,64.0,163.4,137.0,85.0,37.0,8.2,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0165,35.0,Perempuan,49.3,163.5,,82.0,36.5,6.0,Tinggi,Ya,Tinggi,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0166,45.0,Laki-laki,79.4,166.3,128.0,93.0,36.8,7.4,Sedang,Ya,,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0167,59.0,Perempuan,59.1,174.6,123.0,58.0,35.8,,Rendah,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0168,39.0,Laki-laki,102.1,166.7,120.0,,36.4,7.2,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0169,38.0,Laki-laki,62.9,172.7,141.0,94.0,36.3,6.8,Sedang,Ya,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0170,23.0,Perempuan,55.9,166.4,122.0,81.0,37.2,7.7,Rendah,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0171,18.0,Perempuan,60.1,164.0,124.0,66.0,36.5,5.6,Rendah,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0172,22.0,Laki-laki,,170.8,135.0,92.0,36.5,,Rendah,Tidak,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0173,58.0,Laki-laki,70.8,170.4,129.0,72.0,,8.6,Sedang,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0174,29.0,Perempuan,60.0,,155.0,70.0,36.4,,Rendah,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0175,,Perempuan,78.6,158.3,93.0,69.0,37.0,6.8,Sedang,Tidak,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0176,63.0,Perempuan,61.7,168.1,130.0,78.0,37.0,8.9,Sedang,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0177,51.0,Laki-laki,81.6,165.7,112.0,82.0,37.3,5.9,Sedang,,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0178,66.0,Laki-laki,74.1,160.0,108.0,,37.2,6.2,Tinggi,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0179,31.0,Laki-laki,65.3,157.4,117.0,67.0,,8.5,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0180,43.0,Laki-laki,84.0,168.7,126.0,72.0,36.6,7.8,Sedang,Ya,Tinggi,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0181,62.0,,76.4,,127.0,69.0,36.6,8.7,Tinggi,Tidak,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0182,44.0,Laki-laki,100.4,161.8,98.0,80.0,36.3,7.4,Rendah,Tidak,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0183,,Perempuan,60.1,159.8,115.0,84.0,36.3,,Rendah,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0184,43.0,Laki-laki,65.9,157.5,130.0,83.0,,7.1,Tinggi,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0185,64.0,Laki-laki,83.8,168.4,109.0,83.0,36.4,8.2,Tinggi,Ya,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0186,39.0,Laki-laki,46.5,157.8,105.0,100.0,37.7,6.6,Sedang,,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0187,64.0,Perempuan,80.8,185.2,,85.0,36.8,,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0188,47.0,Laki-laki,70.3,161.3,113.0,89.0,37.7,7.4,Sedang,Ya,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0189,60.0,Laki-laki,54.3,145.0,104.0,,37.1,6.1,Rendah,Tidak,,Perut terasa nyeri dan mual,Pencernaan
+P0190,65.0,Perempuan,48.6,164.7,107.0,91.0,36.3,7.2,Sedang,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0191,34.0,Laki-laki,56.9,164.3,120.0,74.0,36.8,6.9,Sedang,Ya,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0192,43.0,Laki-laki,40.0,175.0,,85.0,,6.2,Tinggi,,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0193,53.0,Laki-laki,59.1,167.6,104.0,64.0,36.9,8.0,Rendah,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0194,18.0,Laki-laki,,157.5,90.0,82.0,36.4,7.6,Sedang,Ya,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0195,25.0,Laki-laki,59.3,162.4,130.0,68.0,36.1,6.4,Rendah,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0196,66.0,Perempuan,81.7,167.9,139.0,,37.7,6.8,Sedang,Ya,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0197,52.0,Perempuan,84.9,145.5,118.0,,37.4,,,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0198,,Perempuan,80.3,177.0,120.0,74.0,37.4,6.0,Rendah,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0199,32.0,Laki-laki,67.8,157.5,125.0,105.0,37.3,4.8,Sedang,,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0200,64.0,Laki-laki,40.0,177.8,153.0,77.0,36.1,6.2,Sedang,Ya,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0201,150.0,Laki-laki,56.6,168.5,97.0,61.0,36.6,6.1,Tinggi,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0202,2.0,Perempuan,63.3,170.7,118.0,71.0,36.6,6.9,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0203,43.0,Laki-laki,180.0,175.3,94.0,67.0,35.8,7.3,Tinggi,Ya,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0204,45.0,Laki-laki,185.0,170.2,132.0,85.0,36.5,5.8,Sedang,Tidak,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0205,40.0,Perempuan,,220.0,122.0,65.0,36.5,7.2,Rendah,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0206,31.0,Laki-laki,45.3,225.0,129.0,74.0,36.9,,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0207,41.0,Perempuan,86.7,168.3,240.0,84.0,38.3,6.6,Sedang,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0208,19.0,Perempuan,75.6,159.7,250.0,82.0,36.8,6.1,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0209,62.0,,68.2,161.9,135.0,150.0,36.9,7.7,Sedang,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0210,43.0,Laki-laki,56.4,182.7,140.0,160.0,36.6,6.9,Sedang,,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0211,31.0,Laki-laki,54.5,157.7,106.0,76.0,42.5,,Rendah,Ya,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0212,68.0,Laki-laki,,166.4,,61.0,43.0,6.0,Rendah,Ya,,Perut terasa nyeri dan mual,Pencernaan
+P0213,,Laki-laki,85.6,166.0,112.0,,37.9,18.0,Sedang,Tidak,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0214,20.0,Laki-laki,83.5,162.2,113.0,86.0,36.7,20.0,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0215,64.0,Laki-laki,48.1,169.6,130.0,78.0,36.6,6.2,,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0216,40.0,Laki-laki,58.4,170.3,130.0,85.0,37.4,7.4,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0217,63.0,Perempuan,70.2,156.7,106.0,73.0,36.3,6.7,Rendah,,,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0218,60.0,Laki-laki,61.4,165.9,122.0,92.0,37.2,7.3,Sedang,Tidak,,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0219,64.0,,42.0,155.3,152.0,55.0,37.6,7.8,Sedang,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0220,62.0,Laki-laki,57.1,172.1,99.0,82.0,36.7,6.4,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0221,35.0,Laki-laki,,166.6,152.0,96.0,38.0,7.7,Sedang,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0222,55.0,,57.9,165.7,121.0,98.0,37.2,10.0,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0223,52.0,Perempuan,63.0,170.9,90.0,77.0,37.2,7.5,Sedang,Tidak,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0224,68.0,Perempuan,51.3,162.5,100.0,,37.6,8.7,Tinggi,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0225,32.0,Perempuan,72.1,173.2,108.0,96.0,37.8,7.4,Sedang,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0226,,Perempuan,66.4,156.5,114.0,79.0,37.0,5.7,,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0227,54.0,Laki-laki,56.1,177.7,123.0,78.0,37.3,7.1,Sedang,Tidak,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0228,45.0,Perempuan,49.3,160.0,90.0,69.0,37.6,6.4,Sedang,Tidak,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0229,,,81.9,149.7,128.0,65.0,36.1,6.1,Sedang,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0230,56.0,Laki-laki,45.7,,106.0,87.0,,6.7,Sedang,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0231,34.0,Perempuan,71.0,161.0,150.0,88.0,36.8,6.6,Sedang,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0232,56.0,Perempuan,40.0,162.0,120.0,82.0,35.7,5.5,Rendah,Ya,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0233,39.0,Perempuan,73.5,167.1,142.0,71.0,36.6,10.0,Tinggi,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0234,43.0,Perempuan,76.6,174.9,145.0,67.0,37.0,7.8,,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0235,61.0,Perempuan,78.1,163.3,144.0,63.0,36.6,7.1,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0236,42.0,Perempuan,63.1,158.8,115.0,73.0,36.7,6.9,Sedang,Tidak,,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0237,34.0,Perempuan,84.0,,115.0,68.0,36.2,8.2,Rendah,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0238,30.0,Perempuan,92.7,160.8,121.0,59.0,37.3,9.3,Rendah,Ya,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0239,37.0,Laki-laki,61.1,148.0,136.0,88.0,36.2,,Rendah,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0240,42.0,Perempuan,59.6,158.5,116.0,64.0,35.5,6.9,,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0241,21.0,Perempuan,66.8,176.2,123.0,,36.7,8.6,Tinggi,Ya,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0242,27.0,Laki-laki,59.3,,130.0,85.0,37.3,,Sedang,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0243,20.0,Perempuan,57.5,170.7,,84.0,36.8,7.3,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0244,58.0,Laki-laki,58.6,154.0,108.0,100.0,36.1,8.0,Sedang,Ya,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0245,62.0,Laki-laki,85.6,180.9,122.0,65.0,36.9,6.3,Rendah,,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0246,35.0,Perempuan,74.3,181.5,125.0,90.0,37.1,4.3,Rendah,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0247,64.0,Laki-laki,59.2,170.3,133.0,,36.9,,Sedang,Ya,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0248,53.0,Laki-laki,40.0,182.9,137.0,111.0,36.6,7.7,Tinggi,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0249,64.0,Laki-laki,46.5,168.2,105.0,75.0,37.1,7.6,Sedang,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0250,39.0,Laki-laki,71.0,171.9,110.0,73.0,35.8,8.4,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0251,51.0,Perempuan,40.0,176.4,108.0,,36.3,6.3,Tinggi,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0252,64.0,Laki-laki,68.5,166.6,150.0,77.0,36.0,8.7,Rendah,Tidak,,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0253,25.0,Perempuan,52.2,151.0,123.0,71.0,37.6,7.0,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0254,57.0,Laki-laki,66.1,172.1,125.0,68.0,37.2,7.5,Sedang,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0255,66.0,Laki-laki,65.8,160.8,126.0,97.0,36.9,7.9,,Tidak,,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0256,61.0,Laki-laki,66.4,161.4,112.0,66.0,35.9,5.1,Rendah,Ya,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0257,36.0,Laki-laki,60.3,167.7,153.0,83.0,37.2,,Sedang,,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0258,,,59.9,170.1,132.0,93.0,37.6,5.6,Sedang,Ya,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0259,58.0,Perempuan,56.4,166.4,126.0,93.0,37.1,8.1,Rendah,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0260,54.0,Laki-laki,70.8,,105.0,,36.8,6.4,Sedang,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0261,23.0,Laki-laki,,,104.0,78.0,,9.2,Rendah,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0262,69.0,Perempuan,,164.6,119.0,75.0,37.0,6.8,Tinggi,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0263,43.0,Laki-laki,64.4,172.6,112.0,,37.4,5.0,Sedang,Ya,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0264,51.0,Laki-laki,67.4,181.0,106.0,86.0,37.3,6.0,Tinggi,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0265,62.0,Laki-laki,,184.1,118.0,80.0,,6.9,Sedang,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0266,23.0,Perempuan,67.0,,121.0,,36.4,7.4,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0267,,Perempuan,60.2,,128.0,70.0,36.6,5.6,Rendah,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0268,,Perempuan,68.3,182.8,116.0,,37.1,7.5,Rendah,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0269,70.0,Laki-laki,72.4,159.0,107.0,94.0,36.6,7.8,Rendah,Ya,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0270,39.0,Laki-laki,66.7,170.7,107.0,81.0,36.3,6.0,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0271,38.0,Perempuan,71.1,171.9,147.0,55.0,36.8,9.2,Rendah,Ya,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0272,23.0,Perempuan,76.9,178.0,102.0,,37.5,6.2,,Ya,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0273,23.0,Perempuan,42.8,154.8,132.0,101.0,36.9,,Sedang,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0274,,Perempuan,76.3,156.5,134.0,84.0,36.6,5.0,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0275,21.0,,69.1,165.2,123.0,88.0,,8.3,Sedang,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0276,47.0,,51.7,168.4,157.0,79.0,36.9,6.8,,Ya,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0277,28.0,Laki-laki,74.6,175.1,134.0,77.0,,6.2,Tinggi,,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0278,47.0,,60.2,169.7,158.0,58.0,37.2,5.0,Rendah,Ya,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0279,48.0,Laki-laki,61.9,163.6,,90.0,37.0,6.3,Sedang,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0280,,Perempuan,58.9,168.7,114.0,93.0,36.8,9.7,,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0281,26.0,Perempuan,68.6,167.7,134.0,69.0,37.4,4.2,Sedang,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0282,,Perempuan,55.6,180.7,120.0,78.0,37.5,6.0,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0283,68.0,Perempuan,75.8,166.5,155.0,76.0,37.3,9.0,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0284,48.0,Laki-laki,63.3,161.6,131.0,,36.3,8.3,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0285,57.0,Perempuan,60.6,169.0,106.0,73.0,36.3,6.1,Sedang,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0286,54.0,Laki-laki,74.0,166.8,94.0,91.0,37.5,,Tinggi,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0287,53.0,Laki-laki,61.2,,124.0,81.0,35.7,7.4,,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0288,41.0,Laki-laki,76.4,164.9,123.0,55.0,36.7,,Sedang,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0289,48.0,Laki-laki,76.8,164.1,131.0,85.0,37.1,8.9,Rendah,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0290,,Perempuan,49.0,160.1,147.0,92.0,35.7,7.2,Tinggi,Tidak,,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0291,19.0,Laki-laki,78.3,174.3,144.0,,36.9,8.2,Tinggi,Tidak,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0292,37.0,Laki-laki,47.5,157.9,115.0,85.0,37.4,7.0,,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0293,45.0,Laki-laki,79.1,169.1,102.0,102.0,35.9,4.4,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0294,28.0,Perempuan,89.3,,,81.0,37.8,5.4,Tinggi,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0295,21.0,Perempuan,75.5,166.0,112.0,94.0,36.2,5.6,Sedang,Ya,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0296,,Perempuan,40.0,168.7,118.0,75.0,37.1,6.5,Rendah,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0297,23.0,Perempuan,77.8,153.2,130.0,,36.7,9.3,Sedang,Tidak,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0298,66.0,Laki-laki,92.0,166.7,111.0,78.0,36.8,7.2,Tinggi,Ya,,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0299,47.0,Laki-laki,61.4,185.6,130.0,75.0,36.0,6.7,Tinggi,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0300,55.0,Perempuan,64.6,151.0,132.0,78.0,37.6,,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0301,68.0,Laki-laki,50.7,164.5,128.0,60.0,37.0,5.1,Sedang,Ya,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0302,19.0,Laki-laki,68.7,175.1,105.0,76.0,37.8,6.2,Rendah,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0303,32.0,Laki-laki,80.2,167.7,133.0,96.0,,6.0,Tinggi,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0304,28.0,Perempuan,73.4,171.2,162.0,68.0,36.7,7.3,Rendah,Ya,,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0305,25.0,Perempuan,102.7,145.0,129.0,67.0,36.9,7.9,Tinggi,Ya,,Sering sakit kepala dan terasa pusing,Neurologis
+P0306,43.0,Laki-laki,65.4,170.4,90.0,81.0,36.8,7.4,Sedang,Ya,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0307,,Perempuan,45.4,158.1,147.0,,37.2,7.4,Tinggi,Ya,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0308,62.0,Perempuan,67.1,167.8,112.0,85.0,36.7,6.4,Rendah,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0309,61.0,Perempuan,40.0,164.7,166.0,79.0,,7.2,,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0310,22.0,Perempuan,58.6,185.5,127.0,81.0,36.8,5.8,Rendah,Tidak,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0311,23.0,Perempuan,84.5,169.9,95.0,76.0,35.5,7.6,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0312,43.0,Laki-laki,,164.0,,65.0,36.9,6.2,,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0313,21.0,Perempuan,67.2,151.4,153.0,,37.6,5.5,Sedang,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0314,36.0,Laki-laki,86.8,166.1,145.0,89.0,36.2,6.8,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0315,,Laki-laki,61.8,172.4,165.0,86.0,36.2,4.5,Rendah,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0316,50.0,Perempuan,,164.3,125.0,,36.3,8.6,Tinggi,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0317,,,66.6,160.4,124.0,83.0,36.2,7.8,Sedang,Ya,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0318,66.0,Laki-laki,69.6,159.8,118.0,69.0,36.5,7.2,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0319,,Laki-laki,50.4,169.8,113.0,97.0,37.3,4.9,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0320,64.0,,59.2,171.8,118.0,84.0,,,Sedang,,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0321,18.0,Perempuan,,177.3,129.0,91.0,35.5,6.8,Sedang,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0322,43.0,Laki-laki,63.9,156.0,110.0,80.0,36.6,6.5,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0323,31.0,Perempuan,,169.7,95.0,79.0,37.0,4.8,Sedang,,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0324,55.0,Perempuan,51.7,163.9,,98.0,36.9,,Tinggi,,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0325,54.0,Perempuan,89.6,164.2,109.0,92.0,37.9,6.5,Tinggi,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0326,28.0,Perempuan,68.3,168.6,90.0,81.0,35.6,5.3,Rendah,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0327,,Laki-laki,65.7,168.7,135.0,78.0,35.5,8.4,Sedang,Ya,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0328,30.0,Laki-laki,74.2,169.8,,60.0,38.0,7.4,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0329,60.0,Perempuan,55.1,155.5,137.0,84.0,37.3,5.8,Rendah,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0330,,Perempuan,67.0,158.3,136.0,78.0,36.5,8.2,,Tidak,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0331,50.0,Laki-laki,,178.4,130.0,87.0,36.9,8.0,,Ya,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0332,,Laki-laki,83.7,163.0,170.0,90.0,36.9,7.1,Rendah,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0333,67.0,Perempuan,,167.8,123.0,95.0,36.4,,Sedang,Tidak,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0334,27.0,Laki-laki,65.8,174.5,120.0,,36.9,6.4,,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0335,22.0,Perempuan,69.0,169.2,137.0,67.0,37.0,,Tinggi,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0336,40.0,Perempuan,69.7,169.9,124.0,55.0,38.0,5.2,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0337,,Laki-laki,58.0,173.1,146.0,70.0,37.4,8.6,Sedang,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0338,61.0,Laki-laki,54.3,146.0,102.0,96.0,37.8,6.2,Sedang,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0339,19.0,Perempuan,58.2,160.6,102.0,102.0,36.0,6.8,Rendah,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0340,30.0,Perempuan,71.3,169.2,139.0,77.0,36.6,5.7,Rendah,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0341,57.0,Laki-laki,63.3,177.5,104.0,62.0,36.9,6.5,Rendah,Tidak,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0342,19.0,Perempuan,74.6,165.6,136.0,72.0,35.6,10.0,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0343,37.0,Laki-laki,70.7,,132.0,94.0,37.5,5.9,Tinggi,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0344,18.0,,40.0,157.6,112.0,73.0,37.2,8.5,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0345,54.0,Laki-laki,68.0,173.0,132.0,87.0,36.6,6.8,Sedang,Ya,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0346,26.0,Laki-laki,92.0,163.0,103.0,82.0,36.7,7.6,,Tidak,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0347,34.0,Laki-laki,80.9,164.9,107.0,89.0,37.6,8.3,Rendah,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0348,26.0,,,170.5,121.0,102.0,36.3,7.1,Sedang,Tidak,,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0349,,Perempuan,52.3,145.0,126.0,87.0,37.6,6.4,Tinggi,Tidak,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0350,32.0,Laki-laki,,183.0,,82.0,36.6,6.6,Rendah,Tidak,Tinggi,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0351,41.0,Perempuan,73.9,158.4,133.0,103.0,37.3,6.6,Rendah,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0352,55.0,Laki-laki,62.0,167.2,132.0,84.0,36.9,,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0353,52.0,Laki-laki,68.8,149.7,153.0,70.0,38.1,5.0,Sedang,Ya,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0354,47.0,Perempuan,83.1,161.2,123.0,88.0,36.3,4.7,Sedang,Ya,,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0355,48.0,Perempuan,54.7,176.2,147.0,85.0,36.5,4.8,Sedang,Ya,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0356,66.0,Laki-laki,52.3,147.8,142.0,76.0,,,Sedang,Ya,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0357,22.0,Perempuan,73.3,,166.0,74.0,36.1,7.6,Rendah,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0358,61.0,Perempuan,70.5,162.5,123.0,76.0,37.2,,Sedang,Ya,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0359,67.0,,,169.4,117.0,74.0,37.8,,Sedang,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0360,31.0,Laki-laki,71.8,170.9,148.0,77.0,37.3,6.8,Tinggi,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0361,70.0,Perempuan,58.2,169.0,132.0,70.0,36.8,5.5,,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0362,28.0,Laki-laki,70.2,,148.0,85.0,36.3,5.6,Tinggi,Ya,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0363,26.0,Laki-laki,51.3,,,84.0,37.3,7.5,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0364,51.0,Perempuan,62.0,151.8,,84.0,36.2,8.1,Sedang,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0365,29.0,Laki-laki,71.0,,,79.0,36.0,6.2,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0366,52.0,Laki-laki,60.7,180.3,131.0,78.0,36.6,8.8,Tinggi,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0367,52.0,Perempuan,94.6,148.6,127.0,,35.6,8.0,Rendah,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0368,18.0,Perempuan,42.3,158.1,123.0,81.0,36.0,8.7,Sedang,Tidak,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0369,57.0,Laki-laki,58.4,163.4,96.0,95.0,37.9,6.4,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0370,39.0,Laki-laki,53.7,166.6,141.0,68.0,35.9,8.6,Sedang,Tidak,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0371,46.0,Perempuan,56.6,172.9,132.0,87.0,36.1,,,,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0372,25.0,Perempuan,57.3,163.6,,71.0,36.8,,Sedang,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0373,28.0,Perempuan,49.1,162.2,97.0,73.0,36.9,6.6,,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0374,58.0,Perempuan,74.0,174.9,134.0,75.0,36.7,5.7,Sedang,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0375,54.0,Laki-laki,58.4,171.0,121.0,74.0,35.6,5.4,Sedang,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0376,31.0,Perempuan,67.0,169.9,128.0,74.0,37.3,5.4,Sedang,,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0377,47.0,Perempuan,59.8,166.0,121.0,95.0,36.5,5.8,Tinggi,,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0378,52.0,Laki-laki,56.7,173.8,135.0,81.0,37.5,7.1,Sedang,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0379,38.0,Perempuan,85.1,,122.0,83.0,,5.9,Sedang,Ya,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0380,54.0,Laki-laki,76.1,157.9,106.0,75.0,,7.1,Rendah,Ya,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0381,22.0,Perempuan,42.6,171.7,127.0,90.0,37.6,7.1,Rendah,,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0382,36.0,Perempuan,,150.4,121.0,84.0,36.5,6.2,Sedang,Tidak,,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0383,,Perempuan,77.5,165.8,123.0,76.0,37.3,6.7,Sedang,Ya,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0384,43.0,Laki-laki,58.8,162.2,90.0,61.0,36.0,6.2,Sedang,,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0385,21.0,Laki-laki,45.2,152.3,137.0,83.0,37.0,6.4,Rendah,Ya,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0386,42.0,Perempuan,77.5,156.6,119.0,87.0,37.5,5.8,Tinggi,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0387,62.0,Laki-laki,67.0,164.0,101.0,68.0,37.1,6.9,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0388,59.0,Laki-laki,68.0,174.3,142.0,76.0,38.2,6.1,Rendah,,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0389,42.0,Laki-laki,74.7,159.1,136.0,86.0,37.1,5.4,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0390,35.0,,49.3,175.9,119.0,61.0,36.6,7.5,,Tidak,,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0391,,Laki-laki,45.4,165.6,104.0,72.0,38.5,7.6,Sedang,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0392,25.0,Laki-laki,84.0,176.8,128.0,85.0,37.8,8.1,Sedang,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0393,56.0,Perempuan,47.8,159.6,127.0,93.0,35.8,5.6,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0394,57.0,Perempuan,50.3,164.6,142.0,106.0,36.3,6.2,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0395,31.0,Laki-laki,,168.3,117.0,104.0,36.2,7.1,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0396,49.0,Perempuan,90.0,163.4,147.0,82.0,37.2,,Rendah,Tidak,Tinggi,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0397,68.0,Perempuan,70.9,173.6,115.0,74.0,37.1,7.5,Sedang,Tidak,,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0398,55.0,Perempuan,76.6,145.1,101.0,91.0,37.1,7.4,Rendah,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0399,50.0,,67.4,186.8,105.0,73.0,35.8,7.4,Tinggi,Ya,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0400,40.0,Laki-laki,57.8,172.7,124.0,71.0,36.4,,Sedang,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0401,32.0,Perempuan,72.6,163.4,124.0,76.0,36.7,7.6,Rendah,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0402,50.0,Perempuan,46.3,160.0,131.0,75.0,35.7,7.0,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0403,,Laki-laki,51.9,157.2,123.0,,,6.6,Rendah,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0404,34.0,Laki-laki,73.8,170.8,,73.0,37.6,6.7,Sedang,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0405,50.0,Perempuan,,174.0,120.0,81.0,35.9,5.5,Sedang,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0406,,Perempuan,62.7,163.5,90.0,99.0,37.7,4.7,Rendah,Ya,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0407,19.0,,63.3,175.0,,81.0,37.5,7.4,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0408,31.0,Perempuan,58.7,156.8,90.0,98.0,36.6,8.3,Sedang,Tidak,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0409,70.0,Perempuan,41.6,155.2,130.0,94.0,36.4,6.4,Rendah,,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0410,57.0,Perempuan,57.5,181.3,,87.0,37.3,8.7,Sedang,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0411,57.0,Laki-laki,55.1,170.3,,76.0,36.3,6.6,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0412,68.0,Perempuan,66.9,177.6,151.0,92.0,36.4,4.5,Sedang,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0413,56.0,Perempuan,66.3,157.3,,77.0,36.8,7.9,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0414,68.0,Laki-laki,,156.7,147.0,80.0,35.5,6.2,Sedang,Ya,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0415,23.0,Laki-laki,56.9,161.8,128.0,84.0,35.9,8.0,Tinggi,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0416,23.0,Laki-laki,71.3,157.6,107.0,,36.6,5.3,Rendah,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0417,20.0,Laki-laki,46.3,171.3,139.0,71.0,37.1,7.3,Rendah,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0418,24.0,Perempuan,,158.2,114.0,62.0,36.3,5.8,Rendah,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0419,68.0,Perempuan,40.0,154.5,127.0,92.0,36.7,7.0,Rendah,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0420,25.0,Perempuan,59.0,166.3,122.0,87.0,35.8,7.7,Rendah,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0421,59.0,Perempuan,56.0,153.4,145.0,,37.4,7.4,Sedang,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0422,69.0,Perempuan,,148.8,138.0,,36.9,6.9,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0423,32.0,Perempuan,57.2,166.2,124.0,82.0,37.0,5.1,Tinggi,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0424,,Laki-laki,68.3,149.3,90.0,85.0,37.1,7.7,Rendah,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0425,46.0,Perempuan,74.8,,114.0,62.0,36.8,8.0,Sedang,Tidak,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0426,50.0,Laki-laki,56.8,152.4,138.0,79.0,36.5,5.5,Tinggi,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0427,69.0,Laki-laki,68.6,145.0,130.0,86.0,37.5,5.7,Tinggi,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0428,47.0,,77.0,162.4,98.0,76.0,36.9,8.1,Sedang,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0429,56.0,Laki-laki,50.1,166.3,,83.0,36.7,6.5,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0430,,Perempuan,65.3,,129.0,74.0,36.8,5.8,Tinggi,Ya,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0431,53.0,Laki-laki,56.8,166.5,106.0,91.0,36.8,7.1,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0432,46.0,Perempuan,50.9,,,70.0,36.7,6.0,Rendah,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0433,55.0,Laki-laki,46.6,171.4,137.0,66.0,37.1,7.0,Tinggi,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0434,50.0,Perempuan,,173.6,147.0,80.0,36.2,6.3,Sedang,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0435,54.0,,65.7,154.1,111.0,63.0,36.3,6.4,Rendah,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0436,44.0,Perempuan,45.7,163.4,124.0,55.0,37.1,8.1,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0437,50.0,Perempuan,58.4,162.5,124.0,93.0,,3.8,Sedang,Ya,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0438,21.0,Perempuan,74.8,,122.0,68.0,37.4,7.5,Tinggi,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0439,39.0,Laki-laki,70.4,163.2,126.0,64.0,37.0,7.9,Rendah,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0440,19.0,Laki-laki,58.6,164.4,139.0,70.0,36.5,6.1,Tinggi,,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0441,27.0,Laki-laki,85.3,170.8,113.0,70.0,37.1,7.9,Sedang,,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0442,22.0,Perempuan,87.7,155.0,98.0,78.0,37.5,5.6,Sedang,Ya,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0443,27.0,Laki-laki,65.3,171.6,155.0,67.0,37.1,6.0,Rendah,Ya,,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0444,50.0,Perempuan,40.0,175.3,145.0,86.0,37.2,5.9,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0445,55.0,Perempuan,75.6,179.7,105.0,,36.7,7.9,,Ya,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0446,30.0,Laki-laki,40.0,,127.0,65.0,37.4,4.7,Sedang,Tidak,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0447,48.0,Laki-laki,82.7,,143.0,73.0,36.5,8.8,,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0448,64.0,Perempuan,78.0,147.3,138.0,,,6.4,Sedang,Ya,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0449,53.0,Laki-laki,86.3,145.0,133.0,,38.3,7.5,Sedang,Ya,,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0450,62.0,Perempuan,68.1,166.3,122.0,93.0,37.1,7.4,Rendah,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0451,41.0,Perempuan,60.7,161.4,156.0,94.0,36.5,7.0,Sedang,Ya,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0452,69.0,,59.6,167.7,129.0,110.0,36.5,6.1,Sedang,Ya,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0453,32.0,Perempuan,58.4,,116.0,,36.8,8.3,Sedang,,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0454,46.0,,,176.2,141.0,69.0,37.3,6.2,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0455,,Laki-laki,73.5,165.5,127.0,102.0,36.9,,Rendah,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0456,,Laki-laki,66.4,191.3,131.0,58.0,36.4,7.9,Sedang,Ya,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0457,46.0,Perempuan,56.3,167.8,129.0,101.0,36.4,7.0,Sedang,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0458,64.0,Perempuan,96.6,181.6,134.0,82.0,36.9,8.4,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0459,21.0,Laki-laki,75.9,145.0,107.0,82.0,36.8,6.7,Sedang,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0460,29.0,Laki-laki,45.8,177.1,99.0,65.0,37.1,6.0,Rendah,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0461,,Perempuan,,163.4,151.0,75.0,37.4,7.1,,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0462,19.0,Laki-laki,76.2,147.5,129.0,101.0,38.4,6.3,,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0463,44.0,Perempuan,55.4,168.8,139.0,79.0,35.9,6.1,Sedang,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0464,48.0,Laki-laki,69.2,162.3,93.0,75.0,,7.8,Sedang,Ya,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0465,68.0,,76.4,,144.0,85.0,36.9,9.0,,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0466,68.0,Laki-laki,40.0,174.1,116.0,78.0,35.7,6.5,Rendah,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0467,53.0,Perempuan,63.7,,110.0,84.0,37.5,5.6,Rendah,Tidak,,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0468,53.0,Laki-laki,64.2,174.1,124.0,70.0,37.1,6.6,Rendah,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0469,43.0,Laki-laki,60.1,165.1,107.0,79.0,37.3,7.4,Sedang,Tidak,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0470,60.0,,,177.2,125.0,72.0,35.8,7.1,Rendah,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0471,44.0,Laki-laki,72.9,163.2,123.0,,36.7,8.2,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0472,22.0,Perempuan,66.7,160.8,144.0,86.0,36.2,7.6,Sedang,Ya,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0473,37.0,Laki-laki,60.5,165.2,152.0,65.0,38.1,5.5,Rendah,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0474,28.0,Perempuan,72.6,165.9,152.0,78.0,37.5,6.2,Sedang,,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0475,27.0,Laki-laki,65.6,159.0,90.0,91.0,36.4,5.1,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0476,57.0,Perempuan,62.2,160.5,108.0,62.0,,8.2,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0477,55.0,Laki-laki,49.3,154.0,,87.0,36.9,4.4,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0478,23.0,Perempuan,46.2,161.1,,76.0,37.5,5.3,Rendah,Tidak,,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0479,,Laki-laki,,171.1,113.0,68.0,35.8,6.2,Tinggi,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0480,40.0,Perempuan,68.3,163.8,132.0,104.0,36.2,7.5,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0481,64.0,,64.1,174.1,116.0,80.0,36.1,6.2,Rendah,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0482,43.0,Perempuan,47.2,163.3,116.0,73.0,37.3,6.4,Rendah,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0483,63.0,Laki-laki,72.8,152.1,128.0,71.0,36.6,6.4,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0484,60.0,Perempuan,81.5,170.4,94.0,91.0,,7.0,Rendah,Ya,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0485,29.0,Laki-laki,57.8,158.9,110.0,73.0,36.9,5.3,,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0486,43.0,,44.1,162.9,116.0,89.0,36.3,5.7,Sedang,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0487,30.0,,56.5,176.1,121.0,80.0,35.9,8.8,Tinggi,Ya,,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0488,57.0,Perempuan,75.3,,126.0,93.0,37.6,7.3,Sedang,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0489,35.0,Laki-laki,71.6,166.5,152.0,67.0,37.7,7.7,Sedang,Ya,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0490,42.0,Laki-laki,53.9,164.6,141.0,69.0,36.9,6.9,Tinggi,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0491,50.0,Perempuan,83.3,171.3,,77.0,37.0,6.6,Rendah,Ya,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0492,64.0,,81.2,172.7,120.0,78.0,37.6,7.3,Tinggi,Ya,,Sering sakit kepala dan terasa pusing,Neurologis
+P0493,57.0,Laki-laki,56.2,167.4,119.0,76.0,36.9,7.7,,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0494,60.0,Perempuan,,161.8,116.0,112.0,,7.8,Sedang,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0495,29.0,Laki-laki,57.9,,130.0,105.0,36.8,6.6,Tinggi,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0496,61.0,Laki-laki,58.9,177.0,92.0,84.0,37.6,7.9,Rendah,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0497,53.0,Laki-laki,76.4,164.8,141.0,85.0,36.8,,Rendah,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0498,65.0,Perempuan,70.1,,155.0,77.0,36.4,7.9,Sedang,Tidak,,Sering sakit kepala dan terasa pusing,Neurologis
+P0499,21.0,Laki-laki,75.5,168.5,120.0,67.0,36.9,6.3,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0500,,Perempuan,73.1,165.3,120.0,78.0,37.2,7.5,Sedang,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0501,,Laki-laki,85.6,153.0,128.0,89.0,,6.0,Rendah,Ya,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0502,25.0,Laki-laki,52.3,167.2,143.0,96.0,37.1,5.2,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0503,59.0,Laki-laki,69.6,152.9,119.0,92.0,36.3,7.2,Sedang,Ya,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0504,66.0,Perempuan,40.0,168.4,142.0,62.0,37.3,5.0,Sedang,Ya,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0505,45.0,Laki-laki,49.2,157.8,,77.0,,6.3,Tinggi,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0506,48.0,Laki-laki,64.1,165.3,,62.0,,5.8,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0507,26.0,Perempuan,70.0,168.5,119.0,94.0,37.3,6.6,Rendah,,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0508,68.0,Laki-laki,63.8,187.1,90.0,75.0,36.5,,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0509,46.0,Perempuan,58.2,,,79.0,35.9,6.2,Sedang,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0510,31.0,Perempuan,60.3,,125.0,,36.2,7.2,Rendah,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0511,57.0,Laki-laki,81.4,181.8,144.0,113.0,36.7,,Rendah,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0512,58.0,Perempuan,60.4,169.4,113.0,83.0,37.1,6.1,Tinggi,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0513,39.0,Laki-laki,86.0,167.6,121.0,77.0,36.3,6.1,Tinggi,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0514,,Perempuan,74.5,155.4,137.0,65.0,36.7,8.4,Sedang,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0515,40.0,Perempuan,70.5,164.0,108.0,98.0,36.1,6.7,Rendah,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0516,18.0,Laki-laki,50.7,158.5,114.0,78.0,,7.4,,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0517,63.0,Perempuan,,161.4,104.0,100.0,37.8,7.4,Tinggi,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0518,54.0,Perempuan,,181.8,146.0,93.0,37.8,5.4,Sedang,Ya,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0519,38.0,Perempuan,50.7,166.0,153.0,,37.4,5.9,Tinggi,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0520,43.0,Perempuan,71.2,157.1,97.0,63.0,,7.3,Tinggi,Ya,,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0521,63.0,Perempuan,48.3,177.4,122.0,83.0,35.6,4.3,Tinggi,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0522,53.0,Laki-laki,55.9,173.6,150.0,73.0,36.9,6.5,Tinggi,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0523,40.0,Perempuan,64.9,174.1,132.0,80.0,36.5,5.8,Sedang,,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0524,18.0,Laki-laki,91.6,146.9,116.0,93.0,37.3,8.1,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0525,68.0,Perempuan,56.8,182.5,97.0,60.0,,7.2,Sedang,Ya,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0526,57.0,Laki-laki,59.5,160.0,146.0,83.0,36.9,8.2,Sedang,,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0527,32.0,Laki-laki,73.8,172.0,131.0,89.0,36.7,6.8,Sedang,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0528,38.0,Perempuan,50.1,187.7,98.0,90.0,37.5,6.7,Tinggi,Ya,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0529,64.0,Perempuan,70.3,184.4,146.0,64.0,37.7,6.4,Sedang,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0530,26.0,,79.5,156.2,96.0,85.0,36.2,6.2,Sedang,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0531,70.0,Laki-laki,61.3,152.0,121.0,94.0,36.3,10.0,Sedang,Tidak,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0532,26.0,Perempuan,77.3,177.9,120.0,84.0,36.9,7.8,Sedang,Ya,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0533,27.0,Laki-laki,,166.3,154.0,79.0,37.8,5.5,Sedang,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0534,69.0,Laki-laki,56.2,160.5,120.0,94.0,36.8,10.0,Rendah,Tidak,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0535,,Laki-laki,62.6,170.6,120.0,72.0,36.0,6.3,,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0536,43.0,Perempuan,60.4,163.5,,62.0,36.4,7.2,Rendah,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0537,58.0,Perempuan,63.9,171.3,113.0,78.0,36.9,7.9,Rendah,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0538,52.0,Laki-laki,66.8,165.6,110.0,86.0,,5.0,Sedang,Ya,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0539,69.0,Laki-laki,72.1,,111.0,92.0,36.4,5.8,Rendah,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0540,42.0,Perempuan,71.1,156.9,125.0,86.0,36.4,,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0541,43.0,,40.0,177.8,90.0,,36.2,6.5,Rendah,,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0542,,Perempuan,63.8,171.3,98.0,93.0,37.5,8.0,Rendah,Ya,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0543,55.0,,46.9,170.8,123.0,76.0,36.3,6.3,Sedang,Tidak,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0544,,Perempuan,61.7,154.9,127.0,78.0,36.5,6.7,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0545,24.0,Laki-laki,63.5,180.3,121.0,95.0,36.5,8.9,Tinggi,Tidak,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0546,35.0,Perempuan,76.7,,124.0,65.0,35.8,7.3,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0547,44.0,Laki-laki,64.6,171.6,118.0,85.0,36.3,6.4,Rendah,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0548,51.0,Perempuan,68.1,162.1,125.0,71.0,37.5,6.0,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0549,44.0,Perempuan,74.5,167.3,133.0,93.0,36.1,6.1,Sedang,Ya,,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0550,34.0,Laki-laki,79.7,,133.0,80.0,36.2,8.3,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0551,60.0,,63.5,145.0,113.0,80.0,36.0,7.7,Tinggi,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0552,61.0,Perempuan,66.1,170.2,141.0,101.0,36.7,5.4,Sedang,,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0553,68.0,Laki-laki,,182.7,128.0,67.0,37.9,6.9,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0554,41.0,Perempuan,58.5,169.9,147.0,83.0,36.7,6.7,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0555,42.0,Laki-laki,55.8,156.4,151.0,78.0,36.8,7.2,Tinggi,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0556,24.0,Perempuan,40.0,170.8,99.0,86.0,,6.1,Sedang,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0557,69.0,Perempuan,52.1,174.5,110.0,103.0,36.8,8.1,Rendah,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0558,,Perempuan,43.7,169.6,140.0,73.0,37.5,6.8,Sedang,Ya,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0559,70.0,Perempuan,,164.3,95.0,66.0,36.9,7.2,Sedang,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0560,41.0,Perempuan,67.3,,151.0,70.0,38.1,5.9,Tinggi,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0561,50.0,Perempuan,63.5,162.8,119.0,77.0,37.6,5.9,,Ya,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0562,66.0,Laki-laki,56.4,171.3,135.0,,36.7,10.0,Rendah,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0563,46.0,Laki-laki,65.4,152.3,,81.0,36.7,9.0,Tinggi,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0564,60.0,Laki-laki,54.8,161.7,100.0,102.0,37.8,6.7,Tinggi,Ya,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0565,39.0,Perempuan,67.1,179.4,144.0,99.0,36.9,8.6,Rendah,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0566,43.0,Perempuan,67.9,179.7,175.0,96.0,37.6,,Tinggi,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0567,45.0,,54.7,151.7,116.0,110.0,38.0,,Sedang,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0568,67.0,Perempuan,54.4,154.8,119.0,90.0,36.7,5.9,Sedang,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0569,38.0,Laki-laki,76.5,162.6,90.0,,37.0,7.6,Tinggi,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0570,66.0,Laki-laki,64.4,173.0,149.0,90.0,37.4,7.1,Sedang,Tidak,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0571,24.0,Perempuan,55.6,148.6,141.0,88.0,37.3,6.3,Rendah,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0572,34.0,Laki-laki,60.6,164.5,94.0,,37.3,7.7,,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0573,37.0,Laki-laki,52.9,160.7,90.0,75.0,36.0,5.1,Sedang,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0574,58.0,Perempuan,,176.9,90.0,65.0,36.3,6.9,Rendah,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0575,66.0,Laki-laki,75.0,149.9,137.0,78.0,36.5,5.3,Sedang,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0576,37.0,Perempuan,64.7,165.8,138.0,87.0,37.5,5.4,Sedang,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0577,39.0,,93.4,161.5,108.0,81.0,36.1,6.0,Sedang,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0578,45.0,Perempuan,70.1,178.2,134.0,67.0,37.7,7.2,Sedang,Ya,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0579,57.0,Perempuan,67.8,170.4,,78.0,37.3,,Tinggi,Ya,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0580,66.0,Perempuan,54.1,,118.0,77.0,37.5,5.3,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0581,24.0,Perempuan,62.1,172.7,142.0,79.0,36.2,7.4,Sedang,Ya,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0582,18.0,Laki-laki,55.7,161.5,103.0,86.0,36.8,8.6,Rendah,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0583,49.0,Perempuan,40.0,174.0,146.0,88.0,37.0,7.6,Sedang,Ya,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0584,30.0,Perempuan,76.7,162.9,112.0,74.0,37.0,9.0,Tinggi,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0585,47.0,Perempuan,58.9,174.5,157.0,92.0,37.0,8.5,Sedang,Tidak,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0586,40.0,Laki-laki,55.9,,107.0,94.0,36.6,6.2,Sedang,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0587,68.0,Perempuan,67.5,194.3,119.0,84.0,36.9,7.6,,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0588,36.0,Laki-laki,71.1,164.5,126.0,88.0,37.4,6.7,Sedang,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0589,49.0,Perempuan,61.2,168.4,126.0,92.0,36.1,8.1,Rendah,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0590,,Laki-laki,65.0,160.7,134.0,67.0,37.7,6.7,,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0591,46.0,Laki-laki,74.0,165.0,102.0,,37.4,5.9,Rendah,Tidak,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0592,66.0,Perempuan,60.7,145.0,124.0,71.0,36.2,8.4,,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0593,62.0,Laki-laki,68.6,169.2,127.0,72.0,37.0,7.2,Sedang,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0594,46.0,Perempuan,45.1,177.1,116.0,82.0,37.3,6.0,Sedang,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0595,47.0,Perempuan,50.1,168.6,132.0,55.0,36.1,6.2,Rendah,Ya,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0596,33.0,Perempuan,72.3,153.2,101.0,,36.8,6.0,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0597,57.0,Laki-laki,49.5,157.8,,92.0,36.8,5.6,Rendah,Ya,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0598,36.0,Laki-laki,67.8,145.0,111.0,60.0,36.4,,Rendah,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0599,35.0,Perempuan,63.2,173.8,119.0,93.0,36.9,7.2,Sedang,Tidak,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0600,18.0,,60.6,,151.0,72.0,36.4,6.9,Sedang,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0601,31.0,Laki-laki,55.1,164.7,151.0,82.0,37.6,6.3,Rendah,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0602,68.0,Perempuan,75.9,163.6,148.0,73.0,36.4,8.6,Rendah,Tidak,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0603,64.0,,,178.4,117.0,87.0,37.3,4.4,Tinggi,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0604,67.0,Perempuan,68.6,165.8,141.0,92.0,35.8,7.2,Tinggi,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0605,19.0,Laki-laki,68.9,172.3,127.0,88.0,36.7,6.6,Rendah,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0606,45.0,Laki-laki,56.8,169.9,126.0,80.0,36.8,5.6,Sedang,Ya,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0607,66.0,Laki-laki,50.6,177.2,124.0,,36.7,7.2,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0608,67.0,Perempuan,64.5,162.8,157.0,79.0,36.6,6.5,Sedang,Ya,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0609,47.0,Perempuan,53.3,181.8,150.0,88.0,36.4,8.3,Tinggi,Tidak,,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0610,55.0,Perempuan,43.7,147.1,,88.0,37.3,7.8,Rendah,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0611,68.0,Laki-laki,,172.7,122.0,87.0,37.4,9.1,Sedang,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0612,21.0,Perempuan,75.2,157.2,126.0,65.0,36.8,6.2,Sedang,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0613,18.0,Perempuan,54.7,160.6,135.0,80.0,36.1,8.5,Sedang,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0614,25.0,Perempuan,67.9,170.1,116.0,72.0,37.9,5.4,Sedang,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0615,46.0,Perempuan,77.0,170.1,142.0,88.0,36.3,6.7,,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0616,56.0,Laki-laki,67.5,170.5,108.0,71.0,35.9,6.2,Rendah,Ya,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0617,20.0,Laki-laki,,152.5,,85.0,35.6,7.5,Rendah,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0618,49.0,Perempuan,62.2,178.0,90.0,77.0,36.9,7.5,Rendah,Ya,,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0619,27.0,Laki-laki,80.9,156.9,115.0,57.0,36.7,5.7,Tinggi,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0620,27.0,Laki-laki,,158.1,162.0,91.0,37.4,7.6,Sedang,,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0621,36.0,Perempuan,71.5,170.7,144.0,80.0,37.2,6.3,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0622,63.0,Perempuan,,162.4,153.0,95.0,37.0,5.8,Rendah,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0623,51.0,Laki-laki,54.7,167.8,,60.0,36.6,6.8,Tinggi,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0624,50.0,Perempuan,57.5,145.6,,77.0,37.5,5.0,,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0625,40.0,,69.1,167.6,148.0,77.0,37.9,7.9,Sedang,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0626,45.0,Perempuan,74.8,167.0,136.0,83.0,37.4,6.7,Sedang,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0627,49.0,Laki-laki,78.2,160.4,134.0,64.0,,6.8,Rendah,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0628,67.0,Perempuan,54.7,146.3,154.0,87.0,37.3,6.7,,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0629,24.0,Laki-laki,70.2,163.1,106.0,103.0,36.6,8.8,Sedang,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0630,46.0,,79.2,164.7,122.0,86.0,36.1,8.6,Rendah,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0631,25.0,Laki-laki,53.2,161.7,93.0,81.0,36.3,8.4,Sedang,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0632,18.0,Perempuan,82.8,148.5,105.0,63.0,36.6,6.7,Rendah,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0633,20.0,Laki-laki,84.7,179.4,144.0,71.0,36.9,5.5,Sedang,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0634,41.0,Laki-laki,96.5,159.3,108.0,79.0,38.0,6.8,Sedang,,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0635,40.0,Perempuan,67.8,163.0,,74.0,,7.2,,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0636,25.0,Perempuan,67.8,145.0,155.0,92.0,37.6,,Sedang,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0637,64.0,Laki-laki,74.9,179.4,122.0,86.0,36.6,7.2,Sedang,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0638,54.0,,74.6,160.8,134.0,112.0,35.6,5.6,Rendah,Ya,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0639,20.0,Perempuan,78.5,165.9,138.0,68.0,36.5,6.2,,,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0640,68.0,Perempuan,74.4,175.1,103.0,,37.5,6.0,Rendah,Tidak,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0641,50.0,Perempuan,63.7,158.9,114.0,63.0,,7.4,Sedang,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0642,45.0,,79.7,173.7,107.0,55.0,37.0,7.5,Rendah,Tidak,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0643,64.0,Perempuan,52.1,146.4,,89.0,37.6,7.6,Rendah,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0644,25.0,Laki-laki,65.1,,,86.0,36.2,7.2,Rendah,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0645,51.0,Perempuan,83.8,179.2,114.0,70.0,36.2,4.3,Rendah,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0646,52.0,Laki-laki,,159.8,124.0,81.0,35.5,4.7,,Tidak,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0647,49.0,Laki-laki,56.9,175.1,106.0,72.0,,6.6,Rendah,Ya,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0648,41.0,Laki-laki,,181.5,,74.0,37.1,6.9,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0649,31.0,,69.7,162.7,115.0,,37.2,8.3,Rendah,,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0650,49.0,Laki-laki,54.5,162.0,152.0,69.0,36.1,6.9,,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0651,63.0,Laki-laki,60.0,156.9,126.0,71.0,35.8,5.6,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0652,60.0,Perempuan,50.8,160.4,100.0,72.0,36.0,7.6,Tinggi,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0653,33.0,Laki-laki,76.8,157.7,122.0,85.0,36.2,6.8,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0654,21.0,Laki-laki,61.9,156.9,106.0,55.0,,6.3,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0655,69.0,Perempuan,86.5,,136.0,77.0,37.4,4.9,,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0656,54.0,Laki-laki,66.0,157.9,120.0,67.0,36.5,6.9,Tinggi,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0657,38.0,Laki-laki,62.4,167.3,128.0,67.0,37.0,7.1,Rendah,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0658,31.0,Laki-laki,61.2,165.3,118.0,74.0,36.4,5.6,,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0659,48.0,Perempuan,62.1,,115.0,80.0,37.0,7.7,Sedang,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0660,65.0,Perempuan,66.3,160.5,107.0,77.0,36.1,7.6,,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0661,,Perempuan,95.1,168.4,140.0,67.0,37.3,6.9,Tinggi,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0662,24.0,Laki-laki,,172.1,122.0,89.0,36.3,6.8,Rendah,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0663,27.0,Laki-laki,,178.4,119.0,69.0,37.3,7.9,Tinggi,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0664,24.0,Perempuan,65.8,160.3,121.0,71.0,36.5,7.2,,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0665,50.0,Laki-laki,78.1,159.4,,,,6.0,Sedang,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0666,40.0,Laki-laki,47.9,155.4,119.0,84.0,37.8,6.6,Rendah,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0667,38.0,Perempuan,70.5,185.1,129.0,73.0,36.9,7.5,Rendah,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0668,36.0,,55.2,177.5,106.0,55.0,36.6,4.4,Tinggi,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0669,65.0,Laki-laki,71.6,164.6,,69.0,,5.7,Sedang,Ya,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0670,36.0,Laki-laki,59.1,182.4,150.0,82.0,36.0,7.6,Sedang,Ya,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0671,53.0,Laki-laki,40.0,164.1,,88.0,37.5,8.3,Tinggi,Ya,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0672,46.0,Perempuan,69.4,171.5,115.0,79.0,36.7,8.0,Rendah,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0673,35.0,,69.3,,101.0,74.0,37.2,7.9,Sedang,Ya,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0674,19.0,Perempuan,,168.6,,,35.9,7.0,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0675,18.0,Perempuan,57.3,167.6,106.0,76.0,36.6,5.6,Rendah,Tidak,,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0676,64.0,,49.3,161.2,125.0,87.0,36.8,6.6,Rendah,Tidak,,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0677,,Perempuan,74.3,174.8,94.0,64.0,37.4,,Sedang,Ya,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0678,37.0,Perempuan,75.6,,140.0,67.0,37.2,,Sedang,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0679,28.0,Perempuan,54.5,174.2,146.0,88.0,36.6,5.8,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0680,59.0,Perempuan,58.5,167.9,134.0,93.0,37.0,6.2,Rendah,Tidak,Tinggi,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0681,19.0,Perempuan,,156.8,97.0,75.0,37.6,8.1,Tinggi,Tidak,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0682,20.0,Laki-laki,92.3,180.4,140.0,58.0,,4.9,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0683,40.0,Laki-laki,71.5,162.6,,78.0,36.6,5.4,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0684,,Perempuan,53.7,,104.0,82.0,35.7,7.1,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0685,37.0,Laki-laki,68.6,170.7,118.0,81.0,36.6,7.4,Rendah,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0686,22.0,Perempuan,48.5,168.2,118.0,73.0,35.8,6.7,Rendah,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0687,,Perempuan,73.6,173.2,116.0,78.0,36.7,6.8,Sedang,Tidak,Tinggi,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0688,,Laki-laki,85.1,174.7,148.0,71.0,37.4,8.3,,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0689,,Laki-laki,85.2,163.0,161.0,67.0,35.5,7.6,Rendah,,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0690,26.0,Perempuan,73.8,179.6,100.0,89.0,37.5,7.4,Sedang,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0691,51.0,Perempuan,58.0,162.6,113.0,,36.6,,Sedang,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0692,70.0,Perempuan,49.4,168.0,128.0,78.0,36.8,6.4,Rendah,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0693,61.0,,48.2,161.5,,74.0,36.5,9.4,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0694,52.0,,40.0,158.9,,78.0,35.8,4.0,Tinggi,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0695,,,73.3,174.4,141.0,82.0,36.3,,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0696,39.0,Perempuan,63.8,193.1,138.0,101.0,38.1,7.9,Tinggi,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0697,61.0,Laki-laki,75.9,161.7,136.0,,36.1,7.1,Rendah,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0698,41.0,Perempuan,82.1,175.9,155.0,72.0,35.8,6.9,Sedang,,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0699,,,66.2,162.1,96.0,72.0,36.9,6.6,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0700,27.0,,66.8,164.9,152.0,70.0,36.7,8.1,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0701,47.0,Perempuan,59.4,,,78.0,36.6,6.8,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0702,63.0,Perempuan,60.8,155.3,139.0,70.0,36.8,5.9,Rendah,Ya,Tinggi,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0703,40.0,Laki-laki,73.7,153.0,106.0,86.0,37.2,,Sedang,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0704,49.0,Perempuan,62.9,,109.0,55.0,36.4,8.7,Sedang,Tidak,,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0705,34.0,Laki-laki,61.2,,137.0,86.0,36.9,4.5,Rendah,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0706,67.0,Laki-laki,64.8,169.2,90.0,83.0,37.4,9.6,Tinggi,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0707,68.0,Perempuan,75.6,168.2,143.0,95.0,36.2,5.6,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0708,34.0,,56.7,165.3,148.0,91.0,35.5,5.6,Sedang,Tidak,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0709,31.0,Perempuan,64.2,172.1,128.0,72.0,37.2,5.3,Rendah,Ya,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0710,26.0,Perempuan,67.9,145.0,128.0,89.0,38.3,6.8,Rendah,Ya,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0711,57.0,Laki-laki,78.9,158.2,110.0,78.0,36.8,5.3,,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0712,19.0,Perempuan,62.1,164.2,137.0,57.0,,5.4,Sedang,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0713,62.0,Laki-laki,56.4,171.3,131.0,82.0,36.6,6.0,Sedang,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0714,42.0,Perempuan,59.2,178.4,108.0,73.0,37.8,7.0,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0715,56.0,Perempuan,77.6,157.0,118.0,80.0,36.8,7.1,Rendah,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0716,26.0,Perempuan,89.4,178.1,122.0,100.0,36.7,8.3,,Ya,,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0717,39.0,Laki-laki,49.2,160.9,118.0,83.0,37.3,8.3,Sedang,Ya,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0718,60.0,Perempuan,51.9,163.8,100.0,68.0,36.5,8.0,Sedang,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0719,63.0,,63.0,170.2,,92.0,36.0,6.5,Rendah,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0720,21.0,Perempuan,66.3,163.2,121.0,84.0,37.3,4.6,Rendah,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0721,43.0,Perempuan,74.4,175.0,125.0,66.0,36.4,4.6,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0722,46.0,Laki-laki,54.3,161.4,115.0,61.0,36.2,8.0,Rendah,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0723,62.0,Perempuan,52.2,161.5,134.0,68.0,38.1,7.8,Rendah,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0724,51.0,Laki-laki,66.7,174.5,129.0,90.0,36.7,6.1,Rendah,Ya,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0725,40.0,Laki-laki,61.9,,147.0,,37.1,5.1,Sedang,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0726,54.0,Laki-laki,76.1,167.2,134.0,81.0,36.8,,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0727,28.0,Laki-laki,70.8,150.1,121.0,64.0,36.3,7.0,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0728,23.0,Laki-laki,71.7,181.4,112.0,90.0,37.2,7.0,,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0729,35.0,Laki-laki,63.7,175.9,141.0,56.0,37.0,,Sedang,Ya,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0730,38.0,Perempuan,93.3,189.8,120.0,72.0,36.4,6.3,Rendah,,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0731,59.0,Laki-laki,54.9,177.0,122.0,85.0,37.1,6.5,Tinggi,Ya,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0732,53.0,Laki-laki,72.3,154.8,122.0,67.0,36.5,8.2,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0733,58.0,Laki-laki,49.8,171.0,118.0,87.0,36.1,4.2,Sedang,Tidak,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0734,55.0,Perempuan,52.1,156.7,122.0,70.0,36.1,7.2,Rendah,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0735,51.0,Perempuan,57.7,,160.0,65.0,37.0,,Rendah,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0736,34.0,Laki-laki,84.6,155.1,,95.0,36.6,7.7,Sedang,Tidak,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0737,54.0,Perempuan,68.2,154.7,110.0,82.0,37.7,7.4,Sedang,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0738,,Laki-laki,57.9,150.5,150.0,86.0,36.8,6.0,Rendah,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0739,55.0,Laki-laki,69.5,160.6,118.0,92.0,36.3,6.2,Tinggi,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0740,29.0,Perempuan,65.4,158.8,117.0,55.0,36.9,4.0,Tinggi,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0741,40.0,Laki-laki,59.1,153.6,144.0,88.0,36.0,7.7,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0742,70.0,Perempuan,48.2,182.9,99.0,71.0,36.7,7.1,Tinggi,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0743,59.0,Perempuan,82.3,169.8,140.0,72.0,37.0,8.5,Rendah,Ya,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0744,39.0,Laki-laki,67.5,168.7,126.0,85.0,36.9,6.3,Rendah,Ya,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0745,,Laki-laki,91.1,179.3,,76.0,37.6,7.9,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0746,44.0,Perempuan,76.3,167.3,133.0,87.0,38.4,5.5,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0747,48.0,Laki-laki,71.6,158.3,114.0,80.0,37.2,3.6,Rendah,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0748,23.0,Laki-laki,59.8,149.7,144.0,82.0,37.5,6.7,Tinggi,Ya,,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0749,44.0,Laki-laki,51.9,157.8,115.0,74.0,38.3,6.1,Rendah,Tidak,,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0750,57.0,,62.4,178.5,132.0,67.0,36.2,5.5,Sedang,Ya,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0751,51.0,Perempuan,51.5,153.7,,71.0,36.9,7.9,Tinggi,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0752,29.0,Laki-laki,72.8,168.2,150.0,79.0,36.5,8.2,Rendah,Tidak,,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0753,62.0,Perempuan,84.6,174.3,120.0,102.0,,6.9,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0754,70.0,Perempuan,61.9,167.6,133.0,98.0,37.0,6.6,Sedang,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0755,24.0,Perempuan,76.3,168.6,119.0,72.0,36.3,6.9,Rendah,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0756,27.0,Perempuan,56.7,170.9,,81.0,36.8,6.0,Rendah,Tidak,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0757,62.0,Perempuan,61.4,168.4,139.0,77.0,37.4,,Rendah,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0758,34.0,Laki-laki,55.2,179.5,127.0,82.0,36.0,5.0,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0759,43.0,Laki-laki,40.0,155.6,131.0,83.0,36.3,5.5,Tinggi,Ya,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0760,38.0,Laki-laki,64.6,167.2,132.0,86.0,,5.9,Tinggi,Tidak,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0761,45.0,Perempuan,66.5,148.6,133.0,55.0,,7.4,Rendah,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0762,63.0,Perempuan,77.8,146.3,121.0,84.0,37.5,6.4,Sedang,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0763,19.0,Laki-laki,74.5,164.3,118.0,75.0,35.6,8.4,,Ya,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0764,60.0,Perempuan,74.7,169.9,122.0,72.0,36.9,7.8,Tinggi,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0765,18.0,Laki-laki,53.3,179.7,104.0,,36.2,5.8,,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0766,68.0,Laki-laki,70.5,186.8,138.0,98.0,,7.6,Sedang,Ya,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0767,70.0,Laki-laki,84.0,176.9,111.0,88.0,36.7,6.3,Sedang,,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0768,,,69.6,,106.0,74.0,36.9,7.4,Tinggi,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0769,68.0,,86.9,166.4,125.0,67.0,36.8,7.8,Rendah,Ya,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0770,43.0,Laki-laki,89.2,151.2,123.0,55.0,37.5,8.1,Rendah,,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0771,46.0,Laki-laki,61.8,163.7,129.0,82.0,38.0,7.0,Rendah,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0772,38.0,Laki-laki,56.6,176.6,115.0,87.0,36.1,8.7,Rendah,Ya,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0773,28.0,Laki-laki,55.9,173.1,118.0,79.0,36.2,7.3,Sedang,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0774,57.0,Perempuan,46.8,153.4,137.0,91.0,37.0,,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0775,28.0,Perempuan,58.8,170.5,136.0,,36.3,6.4,Sedang,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0776,,Laki-laki,79.5,169.8,136.0,78.0,37.4,6.0,Rendah,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0777,66.0,Laki-laki,40.0,168.1,126.0,77.0,37.5,7.3,Rendah,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0778,56.0,Perempuan,52.6,164.7,128.0,79.0,36.5,6.9,Rendah,Ya,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0779,57.0,Perempuan,63.5,171.0,129.0,,36.3,7.1,Rendah,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0780,52.0,,54.5,171.3,113.0,79.0,36.6,7.4,Sedang,,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0781,51.0,Laki-laki,58.7,159.2,152.0,76.0,36.9,7.1,,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0782,64.0,Laki-laki,58.9,,149.0,69.0,,9.2,Rendah,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0783,41.0,Perempuan,61.9,163.3,139.0,96.0,35.5,,Sedang,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0784,39.0,Perempuan,56.2,151.6,117.0,63.0,36.2,7.3,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0785,22.0,Perempuan,55.3,159.9,135.0,73.0,36.6,6.5,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0786,50.0,Laki-laki,76.2,150.9,143.0,100.0,36.3,3.8,Tinggi,Tidak,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0787,53.0,Laki-laki,77.6,173.8,103.0,86.0,35.5,6.6,,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0788,64.0,Perempuan,48.4,168.2,156.0,80.0,35.7,5.7,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0789,37.0,Perempuan,40.0,161.8,94.0,80.0,36.0,,Sedang,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0790,36.0,Laki-laki,77.8,177.8,138.0,69.0,36.7,,Sedang,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0791,52.0,Perempuan,50.3,165.6,151.0,79.0,36.5,7.3,Tinggi,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0792,69.0,Perempuan,67.6,152.1,123.0,76.0,36.4,6.2,Rendah,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0793,60.0,Laki-laki,46.2,161.0,122.0,82.0,,6.3,Sedang,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0794,34.0,Perempuan,80.6,,137.0,62.0,37.3,,Rendah,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0795,,,95.5,159.0,158.0,85.0,36.9,5.8,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0796,60.0,Laki-laki,67.2,167.5,120.0,92.0,,,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0797,51.0,Laki-laki,63.9,171.7,111.0,,36.3,7.0,Tinggi,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0798,26.0,Laki-laki,61.1,170.3,117.0,88.0,36.4,8.1,Tinggi,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0799,43.0,Laki-laki,74.4,,97.0,84.0,35.8,7.6,Sedang,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0800,19.0,Laki-laki,71.8,154.4,141.0,73.0,36.6,7.0,Rendah,Ya,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0801,70.0,Laki-laki,77.0,,116.0,67.0,37.3,8.3,Sedang,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0802,26.0,Perempuan,57.5,154.6,,69.0,37.6,,Sedang,Ya,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0803,26.0,Laki-laki,69.1,162.3,141.0,84.0,36.7,6.4,Rendah,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0804,57.0,Laki-laki,58.5,174.9,118.0,79.0,,7.1,,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0805,34.0,Perempuan,52.3,155.7,,95.0,,,Tinggi,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0806,18.0,Perempuan,64.5,175.0,106.0,89.0,36.5,6.7,Sedang,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0807,42.0,Perempuan,53.9,165.3,142.0,89.0,36.5,8.2,Sedang,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0808,60.0,Laki-laki,79.1,155.0,131.0,83.0,37.7,6.6,Tinggi,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0809,57.0,Perempuan,54.7,149.2,123.0,68.0,37.0,6.2,Rendah,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0810,59.0,Laki-laki,69.4,151.3,127.0,84.0,,3.7,Rendah,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0811,42.0,Laki-laki,,159.0,102.0,81.0,37.1,5.8,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0812,56.0,Laki-laki,68.3,163.5,127.0,66.0,36.8,5.2,Sedang,Tidak,Tinggi,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0813,52.0,Laki-laki,58.7,177.1,122.0,95.0,37.7,6.8,Sedang,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0814,20.0,Perempuan,49.9,172.2,102.0,93.0,35.5,5.3,Rendah,Ya,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0815,67.0,Perempuan,70.8,157.4,,66.0,,7.5,Rendah,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0816,54.0,,62.2,168.7,123.0,72.0,37.5,8.1,Rendah,,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0817,61.0,Laki-laki,,179.9,114.0,73.0,35.7,6.8,Tinggi,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0818,61.0,Laki-laki,59.9,181.9,90.0,87.0,37.3,5.6,Sedang,Tidak,,Sering sakit kepala dan terasa pusing,Neurologis
+P0819,68.0,Perempuan,49.1,162.2,,86.0,36.3,7.1,Sedang,Ya,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0820,47.0,Laki-laki,78.0,173.6,122.0,81.0,36.9,9.1,Rendah,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0821,55.0,Laki-laki,73.8,177.5,90.0,83.0,36.3,8.7,Rendah,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0822,51.0,Perempuan,58.2,151.4,163.0,65.0,37.4,5.1,Sedang,,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0823,29.0,Perempuan,65.8,160.4,147.0,85.0,36.6,5.1,Rendah,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0824,36.0,Laki-laki,77.5,185.0,119.0,79.0,37.3,4.8,Sedang,,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0825,54.0,Perempuan,59.5,162.3,110.0,,37.1,5.4,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0826,61.0,Perempuan,61.4,145.0,132.0,62.0,36.3,7.1,Sedang,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0827,66.0,,67.9,163.9,129.0,80.0,37.1,6.1,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0828,34.0,Perempuan,59.5,175.1,135.0,84.0,36.4,5.8,Sedang,Tidak,,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0829,27.0,Laki-laki,75.3,,110.0,60.0,36.8,8.0,Rendah,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0830,66.0,Perempuan,63.0,171.4,145.0,80.0,36.6,7.4,Sedang,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0831,64.0,Laki-laki,55.6,173.4,116.0,81.0,37.3,4.8,Sedang,Tidak,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0832,29.0,,72.3,161.8,137.0,73.0,37.1,8.0,,Tidak,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0833,33.0,Laki-laki,51.3,,111.0,85.0,36.8,7.4,Tinggi,Tidak,,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0834,41.0,Perempuan,89.2,166.4,173.0,,36.4,7.4,Rendah,,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0835,,Laki-laki,84.0,166.6,138.0,83.0,36.0,6.1,Rendah,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0836,,Perempuan,71.2,165.5,177.0,86.0,36.9,6.6,Rendah,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0837,48.0,Laki-laki,70.2,165.9,140.0,86.0,36.4,4.4,Tinggi,,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0838,38.0,Laki-laki,69.6,158.3,115.0,92.0,35.7,7.8,Sedang,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0839,34.0,Perempuan,59.1,171.8,140.0,84.0,36.0,5.6,Sedang,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0840,40.0,Laki-laki,68.6,170.4,141.0,74.0,37.8,5.8,Rendah,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0841,54.0,Laki-laki,53.9,153.0,132.0,72.0,36.4,,Sedang,Tidak,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0842,33.0,Perempuan,71.0,,136.0,67.0,37.4,9.0,Sedang,Ya,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0843,23.0,Laki-laki,75.4,165.8,139.0,,36.6,6.0,Tinggi,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0844,25.0,Laki-laki,60.5,160.2,107.0,96.0,37.5,7.9,Rendah,Ya,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0845,42.0,Laki-laki,57.9,170.7,,76.0,37.5,6.8,Rendah,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0846,35.0,,,164.4,111.0,85.0,36.3,5.8,Rendah,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0847,42.0,Perempuan,82.5,166.5,127.0,71.0,35.6,5.6,,,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0848,29.0,Perempuan,58.8,161.4,121.0,82.0,35.7,6.0,Sedang,Ya,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0849,32.0,Laki-laki,62.6,147.1,107.0,95.0,36.3,6.7,Sedang,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0850,43.0,Perempuan,68.6,146.5,139.0,88.0,37.9,7.5,Sedang,Ya,,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0851,58.0,Laki-laki,68.4,170.3,130.0,61.0,36.6,6.2,Tinggi,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0852,62.0,Perempuan,74.0,,128.0,87.0,,6.2,Tinggi,Ya,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0853,43.0,Laki-laki,60.4,168.9,120.0,87.0,37.6,,Sedang,Tidak,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0854,64.0,Laki-laki,51.3,166.2,118.0,82.0,,,Rendah,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0855,49.0,Laki-laki,49.2,166.9,110.0,88.0,36.8,5.3,Rendah,Ya,Sedang,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0856,,Laki-laki,58.0,173.7,142.0,70.0,,8.0,Tinggi,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0857,33.0,Laki-laki,53.6,169.0,112.0,81.0,,,Sedang,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0858,24.0,Laki-laki,61.4,174.4,,93.0,36.7,6.3,Rendah,Tidak,Tinggi,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0859,34.0,Perempuan,80.7,166.5,155.0,92.0,36.4,6.0,Sedang,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0860,40.0,Laki-laki,60.5,162.3,119.0,87.0,36.8,6.4,Tinggi,,,Sering sakit kepala dan terasa pusing,Neurologis
+P0861,43.0,Perempuan,60.5,166.7,142.0,,37.5,,,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0862,38.0,Laki-laki,64.8,157.5,135.0,68.0,37.9,6.2,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0863,39.0,Perempuan,60.1,161.6,131.0,81.0,37.0,7.0,Tinggi,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0864,24.0,Perempuan,64.2,,133.0,82.0,37.3,8.5,Sedang,Ya,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0865,31.0,Perempuan,,166.5,123.0,79.0,37.0,5.8,Rendah,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0866,32.0,Laki-laki,75.6,164.0,126.0,70.0,36.7,6.3,Tinggi,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0867,,Laki-laki,77.0,152.5,115.0,85.0,37.1,7.6,Tinggi,Tidak,,Perut terasa nyeri dan mual,Pencernaan
+P0868,24.0,Perempuan,89.7,170.7,126.0,81.0,37.5,8.6,Tinggi,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0869,26.0,Laki-laki,71.8,172.5,114.0,83.0,,5.3,Sedang,Tidak,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0870,68.0,Perempuan,91.8,,143.0,87.0,35.9,4.8,Rendah,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0871,65.0,Laki-laki,55.7,169.0,94.0,77.0,36.5,6.8,Tinggi,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0872,25.0,Perempuan,90.1,165.0,134.0,74.0,36.9,,Rendah,,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0873,67.0,Perempuan,60.4,155.9,131.0,93.0,37.3,7.6,Tinggi,Ya,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0874,40.0,Laki-laki,61.6,178.4,129.0,71.0,36.2,7.5,Tinggi,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0875,46.0,Perempuan,63.6,167.2,143.0,74.0,35.5,6.8,,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0876,35.0,Laki-laki,62.4,166.7,120.0,95.0,,8.1,Tinggi,Ya,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0877,48.0,Perempuan,66.0,162.7,130.0,73.0,,6.0,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0878,47.0,Perempuan,,162.1,94.0,79.0,36.1,7.1,Rendah,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0879,69.0,,75.0,171.2,118.0,75.0,36.3,5.3,Sedang,Tidak,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0880,56.0,Laki-laki,58.4,155.8,140.0,59.0,37.3,6.7,Rendah,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0881,52.0,Laki-laki,72.9,179.6,101.0,79.0,36.8,5.0,Sedang,Tidak,,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0882,35.0,Perempuan,83.3,177.7,,68.0,37.0,5.5,Rendah,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0883,59.0,Laki-laki,,161.8,113.0,,36.6,8.9,Sedang,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0884,56.0,Perempuan,74.5,157.2,123.0,93.0,36.3,4.6,Tinggi,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0885,34.0,Perempuan,71.7,146.9,114.0,55.0,36.6,,Tinggi,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0886,31.0,Laki-laki,92.0,153.7,103.0,75.0,37.1,7.8,Sedang,Ya,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0887,48.0,Laki-laki,58.9,171.6,132.0,85.0,35.9,9.5,Sedang,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0888,41.0,Perempuan,,167.8,124.0,,37.8,7.0,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0889,52.0,Perempuan,45.5,169.4,136.0,96.0,37.1,7.1,Tinggi,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0890,61.0,Laki-laki,59.0,148.4,139.0,85.0,36.5,6.8,Sedang,Ya,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0891,62.0,Laki-laki,69.2,161.4,147.0,93.0,37.3,8.1,Sedang,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0892,51.0,Laki-laki,81.7,177.3,127.0,73.0,,7.3,Tinggi,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0893,20.0,Laki-laki,50.3,164.1,148.0,,36.6,6.1,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0894,,Laki-laki,,153.5,107.0,,36.7,8.1,Tinggi,,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0895,60.0,Perempuan,64.2,164.0,141.0,106.0,37.7,6.2,Tinggi,Tidak,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0896,57.0,Perempuan,,158.1,133.0,96.0,38.1,4.9,Tinggi,Ya,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0897,43.0,Perempuan,67.2,168.0,,82.0,36.8,4.9,Rendah,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0898,40.0,Perempuan,85.5,165.2,133.0,83.0,36.1,6.6,Sedang,Ya,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0899,,Laki-laki,51.6,,,88.0,36.5,6.9,Tinggi,Ya,Tinggi,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0900,56.0,Laki-laki,63.7,154.0,103.0,109.0,37.4,7.9,,Tidak,Tinggi,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0901,32.0,Laki-laki,53.2,161.0,156.0,85.0,36.2,7.6,Sedang,Ya,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0902,66.0,Perempuan,59.4,174.8,,81.0,36.7,6.9,Rendah,,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0903,21.0,Perempuan,82.2,152.8,122.0,76.0,37.0,8.0,Rendah,Ya,Sedang,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0904,46.0,Laki-laki,61.7,156.0,105.0,83.0,36.2,6.8,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0905,39.0,,81.8,166.8,98.0,73.0,,5.3,Sedang,Tidak,,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0906,42.0,Perempuan,78.3,167.6,123.0,86.0,37.2,5.0,,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0907,30.0,Perempuan,60.6,,119.0,63.0,38.0,8.3,Sedang,,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0908,35.0,Laki-laki,59.0,162.5,125.0,,37.3,4.1,Sedang,Tidak,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0909,50.0,Laki-laki,54.2,169.8,127.0,89.0,36.2,6.6,Sedang,,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0910,33.0,Perempuan,53.8,172.6,170.0,84.0,,10.0,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0911,62.0,Laki-laki,69.2,155.4,119.0,74.0,37.4,7.4,Sedang,Tidak,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0912,59.0,Laki-laki,64.8,168.3,153.0,77.0,37.4,6.5,Sedang,Ya,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0913,61.0,,57.5,178.6,155.0,92.0,36.3,4.8,Rendah,Tidak,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0914,19.0,Perempuan,46.4,,139.0,65.0,36.3,8.7,Sedang,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0915,52.0,Perempuan,66.3,,121.0,66.0,36.1,8.3,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0916,59.0,Perempuan,59.4,154.9,100.0,69.0,37.8,7.6,Sedang,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0917,51.0,Perempuan,62.7,163.6,134.0,80.0,37.2,,Sedang,Tidak,Rendah,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0918,47.0,Perempuan,68.7,174.3,,64.0,36.3,7.5,Sedang,,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0919,30.0,Perempuan,40.0,164.6,156.0,91.0,36.9,6.6,,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0920,30.0,Perempuan,46.6,166.7,108.0,69.0,,5.6,,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0921,35.0,Laki-laki,92.6,156.0,121.0,83.0,36.2,7.9,Rendah,Ya,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0922,49.0,Laki-laki,58.9,173.8,108.0,73.0,36.8,6.7,Tinggi,,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0923,49.0,Laki-laki,,154.7,114.0,79.0,36.9,,Sedang,,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0924,,Laki-laki,47.6,160.5,137.0,61.0,38.0,6.7,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0925,56.0,Laki-laki,94.8,170.7,113.0,92.0,36.4,7.4,Rendah,Ya,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0926,63.0,Laki-laki,56.6,146.6,110.0,68.0,35.8,6.8,,Tidak,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0927,69.0,Laki-laki,78.9,166.6,139.0,67.0,36.2,6.7,Rendah,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0928,,Perempuan,66.5,155.6,133.0,109.0,36.3,6.8,Rendah,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0929,66.0,Perempuan,59.2,165.1,131.0,,36.5,10.0,Sedang,Tidak,,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0930,46.0,Laki-laki,74.3,161.8,113.0,92.0,36.2,7.8,Sedang,Tidak,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0931,70.0,Laki-laki,40.0,184.0,148.0,86.0,,9.9,Sedang,Ya,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0932,61.0,Perempuan,47.7,161.5,125.0,75.0,36.1,6.8,Rendah,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0933,33.0,Laki-laki,59.1,181.6,168.0,64.0,36.8,6.4,Tinggi,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0934,61.0,Laki-laki,48.9,170.3,128.0,76.0,38.0,5.5,Sedang,Tidak,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0935,64.0,Perempuan,58.0,157.8,90.0,68.0,37.1,8.7,Rendah,,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0936,27.0,Laki-laki,75.2,168.0,90.0,69.0,37.1,5.7,Sedang,Tidak,Tinggi,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0937,47.0,Perempuan,66.6,162.3,136.0,61.0,37.9,9.0,Rendah,,Sedang,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0938,42.0,Laki-laki,,167.2,148.0,81.0,,5.6,Rendah,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0939,56.0,Perempuan,67.3,158.6,111.0,99.0,37.1,,Sedang,,,Perut terasa nyeri dan mual,Pencernaan
+P0940,37.0,Perempuan,76.9,180.2,163.0,87.0,36.6,4.9,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0941,22.0,Perempuan,64.2,173.3,155.0,79.0,,6.3,Tinggi,Tidak,,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0942,18.0,Laki-laki,57.9,165.3,,80.0,36.8,6.8,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0943,47.0,Perempuan,82.8,180.6,135.0,55.0,36.6,6.1,Tinggi,Ya,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0944,66.0,Laki-laki,56.5,165.7,141.0,,36.9,6.6,Tinggi,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0945,20.0,Laki-laki,69.1,174.9,159.0,63.0,37.0,,Tinggi,Ya,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0946,62.0,Laki-laki,74.2,165.3,137.0,82.0,36.1,7.8,Sedang,,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0947,31.0,Laki-laki,75.1,168.5,128.0,77.0,37.8,4.3,,Ya,Rendah,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0948,47.0,Perempuan,51.0,164.3,137.0,70.0,37.0,,Rendah,Tidak,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0949,67.0,Perempuan,,,135.0,81.0,36.6,8.3,Sedang,Ya,Sedang,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0950,,Laki-laki,53.3,166.5,142.0,81.0,36.9,,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0951,35.0,Laki-laki,74.7,159.0,97.0,98.0,37.4,8.3,Rendah,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0952,54.0,Perempuan,71.4,161.4,131.0,88.0,35.9,7.7,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0953,42.0,Laki-laki,74.8,163.0,133.0,83.0,,5.5,Rendah,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0954,65.0,Perempuan,50.5,167.1,124.0,69.0,36.1,7.6,Sedang,Ya,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0955,18.0,Laki-laki,72.1,164.7,139.0,67.0,38.4,6.9,Rendah,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0956,70.0,Laki-laki,78.0,175.6,160.0,87.0,36.9,9.5,Sedang,Tidak,Sedang,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0957,63.0,Perempuan,67.3,172.6,127.0,78.0,36.1,7.8,Sedang,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0958,32.0,Laki-laki,55.2,163.2,137.0,83.0,,7.4,Rendah,Tidak,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0959,26.0,Perempuan,76.0,177.4,154.0,92.0,36.5,7.6,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0960,,Laki-laki,,181.9,128.0,62.0,36.7,7.4,Sedang,Ya,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0961,66.0,Laki-laki,44.9,146.6,109.0,97.0,36.7,7.3,Rendah,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0962,41.0,Laki-laki,54.2,173.4,136.0,92.0,36.3,6.5,Rendah,Ya,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0963,21.0,Perempuan,58.7,158.8,90.0,55.0,36.9,7.4,Sedang,Tidak,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0964,29.0,Laki-laki,83.1,172.2,90.0,,,7.9,Sedang,Ya,Tinggi,Sering sakit kepala dan terasa pusing,Neurologis
+P0965,54.0,Laki-laki,81.0,176.1,131.0,84.0,37.5,8.1,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0966,54.0,Laki-laki,80.9,157.1,90.0,74.0,36.1,7.9,Rendah,Ya,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0967,60.0,Laki-laki,67.8,148.3,101.0,86.0,36.6,8.6,Sedang,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0968,23.0,Perempuan,76.0,172.5,118.0,68.0,37.3,8.1,Rendah,,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0969,56.0,Perempuan,,166.2,112.0,87.0,36.7,7.6,Tinggi,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0970,63.0,Laki-laki,65.1,150.0,122.0,70.0,36.7,5.4,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0971,41.0,,70.4,187.8,145.0,104.0,36.2,5.4,Tinggi,Ya,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0972,28.0,Laki-laki,,170.6,129.0,81.0,38.1,6.5,Sedang,Ya,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0973,30.0,Laki-laki,67.5,,110.0,88.0,37.1,6.9,Sedang,Tidak,Rendah,Dada terasa nyeri dan jantung berdebar,Kardiovaskular
+P0974,51.0,Laki-laki,85.2,177.3,149.0,71.0,,8.5,Sedang,Ya,,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0975,42.0,,71.7,159.8,,,36.9,3.5,Sedang,Tidak,Tinggi,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0976,24.0,Perempuan,76.0,166.2,129.0,80.0,36.1,5.6,Sedang,Tidak,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0977,69.0,Perempuan,40.0,153.1,97.0,63.0,37.8,6.6,Sedang,Tidak,Sedang,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0978,21.0,Perempuan,83.7,159.5,130.0,77.0,36.9,5.6,Sedang,Tidak,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0979,25.0,Perempuan,,168.5,119.0,103.0,,5.8,Sedang,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0980,37.0,Perempuan,55.8,150.0,144.0,90.0,37.2,6.2,Sedang,Ya,Sedang,Sering sakit kepala dan terasa pusing,Neurologis
+P0981,46.0,Perempuan,62.9,159.3,138.0,75.0,36.6,5.7,Tinggi,Tidak,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0982,70.0,Perempuan,47.2,156.6,114.0,58.0,36.0,5.9,Sedang,,Rendah,Perut terasa nyeri dan mual,Pencernaan
+P0983,,Perempuan,77.6,166.3,111.0,70.0,37.0,8.4,,,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0984,62.0,Laki-laki,61.0,170.2,119.0,63.0,37.0,7.5,Sedang,Ya,Tinggi,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0985,63.0,Perempuan,56.1,171.7,159.0,58.0,37.5,7.7,Sedang,Tidak,Rendah,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0986,27.0,Perempuan,63.0,174.0,154.0,,36.8,,Tinggi,Tidak,Tinggi,Perut terasa nyeri dan mual,Pencernaan
+P0987,60.0,,78.4,177.3,108.0,81.0,36.9,,Tinggi,Tidak,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0988,51.0,Perempuan,66.6,170.5,139.0,102.0,36.9,7.8,,Ya,Rendah,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0989,43.0,Perempuan,48.1,182.0,94.0,68.0,37.8,7.5,Sedang,Tidak,Sedang,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0990,,Perempuan,,166.1,,80.0,36.6,6.0,Sedang,Ya,Sedang,Perut terasa nyeri dan mual,Pencernaan
+P0001,,Laki-laki,72.6,163.6,153.0,62.0,37.4,6.7,Rendah,Ya,Rendah,Nyeri pada punggung setelah beraktivitas,Musculoskeletal
+P0002,26.0,Perempuan,94.4,168.9,122.0,80.0,36.4,7.0,Sedang,Tidak,Rendah,Sering sakit kepala dan terasa pusing,Neurologis
+P0003,50.0,Laki-laki,66.3,145.0,130.0,103.0,37.2,,Rendah,,,Badan terasa lelah tetapi tidak ada keluhan khusus,Umum
+P0004,70.0,Laki-laki,44.5,,109.0,78.0,37.0,6.9,Rendah,Tidak,Rendah,Sesak napas terutama ketika beraktivitas,Pernapasan
+P0005,37.0,Laki-laki,67.0,168.9,138.0,89.0,36.2,7.0,Rendah,Ya,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0006,30.0,Perempuan,65.0,176.9,117.0,63.0,37.3,7.9,Sedang,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
+P0007,45.0,Laki-laki,64.0,176.0,137.0,75.0,36.9,6.9,Tinggi,Tidak,Tinggi,Demam dan badan terasa lemas sejak dua hari,Demam/Infeksi
+P0008,,Laki-laki,76.3,166.0,139.0,,35.8,6.9,Tinggi,Ya,Sedang,Diare sejak kemarin disertai sakit perut,Pencernaan
+P0009,46.0,Laki-laki,81.5,178.6,113.0,81.0,36.6,7.4,Sedang,Tidak,,Nafsu makan menurun dan tubuh terasa lemah,Umum
+P0010,30.0,Perempuan,73.2,183.3,105.0,90.0,36.8,7.8,Rendah,Tidak,Rendah,Batuk disertai tenggorokan terasa sakit,Pernapasan
